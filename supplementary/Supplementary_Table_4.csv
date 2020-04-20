@@ -1,0 +1,52 @@
+﻿Tissue type,Adjusted CPM (IGH),Adjusted CPM (IGK),Adjusted CPM (IGL)
+Adipose - Subcutaneous,0.31,0.1,3.33
+Adipose - Visceral (Omentum),1.22,0.18,2.92
+Adrenal Gland,0.34,0.13,3.76
+Artery - Aorta,1.16,0.21,4.54
+Artery - Coronary,1.19,0.21,3.86
+Artery - Tibial,0.26,0.13,8.41
+Bladder,2.47,0.23,2.86
+Brain - Amygdala,0.1,0.08,6.78
+Brain - Anterior cingulate cortex (BA24),0.14,0.07,7.3
+Brain - Caudate (basal ganglia),0.13,0.07,6.58
+Brain - Cerebellar Hemisphere,0.15,0.1,12.45
+Brain - Cerebellum,0.18,0.12,13.11
+Brain - Cortex,0.14,0.07,7.87
+Brain - Frontal Cortex (BA9),0.13,0.08,7.89
+Brain - Hippocampus,0.11,0.09,5.99
+Brain - Hypothalamus,0.1,0.07,6.27
+Brain - Nucleus accumbens (basal ganglia),0.12,0.07,6.86
+Brain - Putamen (basal ganglia),0.13,0.08,6.85
+Brain - Spinal cord (cervical c-1),0.1,0.07,4.6
+Brain - Substantia nigra,0.09,0.07,5.49
+Breast - Mammary Tissue,3.91,0.37,3.4
+Cells - EBV-transformed lymphocytes,0.22,0.04,1.12
+Cells - Transformed fibroblasts,0.1,0.16,12.75
+Cervix - Ectocervix,1.75,0.34,3.18
+Cervix - Endocervix,2.12,0.39,2.32
+Colon - Sigmoid,0.78,0.17,5.93
+Colon - Transverse,12.37,0.74,3.21
+Esophagus - Gastroesophageal Junction,0.16,0.11,5.62
+Esophagus - Mucosa,2.45,0.39,6.18
+Esophagus - Muscularis,0.15,0.11,5.38
+Fallopian Tube,2.79,0.33,1.86
+Heart - Atrial Appendage,0.26,0.13,5.78
+Heart - Left Ventricle,0.2,0.13,6.53
+Kidney - Cortex,1,0.2,3.47
+Liver,1.23,0.32,5.24
+Lung,3.87,0.32,2.27
+Minor Salivary Gland,22.36,1.18,4.37
+Muscle - Skeletal,0.22,0.15,11.09
+Nerve - Tibial,0.27,0.12,4.04
+Ovary,0.54,0.21,6.73
+Pancreas,0.59,0.25,7.75
+Pituitary,0.27,0.13,4.44
+Prostate,0.86,0.22,3.6
+Skin - Not Sun Exposed (Suprapubic),0.37,0.19,6.39
+Skin - Sun Exposed (Lower leg),0.2,0.15,6.87
+Small Intestine - Terminal Ileum,8.35,0.53,1.94
+Spleen,10.1,0.53,1.29
+Stomach,5.95,0.5,2.93
+Testis,0.13,0.08,5.45
+Thyroid,1.37,0.19,4.43
+Uterus,0.52,0.23,5.33
