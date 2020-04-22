@@ -31,6 +31,12 @@ imseq -ref Homo.Sapiens.IGL.fa -o output-file_IGL.tsv
 
 IMSEQ cannot be applied directly to RNA-Seq reads because it was originally designed for targeted sequencing of B or T cell receptor loci. Thus, to independently assess and compare accuracy with ImReP, we only ran IMSEQ with the receptor-derived reads.  When we run IMSEQ on simulated data, we provide IMSEQ with simulated reads derived from BCR or TCR transcripts as a fastq file. When we run IMSEQ on real RNA-Seq reads,  we provide fastq file with unmapped reads plus reads mapped to BR and TCR loci.
 
+### IgBLAST
+
+```
+igblastn -germline_db_V [path_to_V_gene_DB] -germline_db_J [path_to_J_gene_DB] -germline_db_D [path_to_D_gene_DB] -organism human -domain_system imgt -query [path_to_input_file] -show_translation -outfmt 3 -out [path_to_output_file] -num_alignments_V 1 -num_alignments_D 1 -num_alignments_J 1
+```
+
 ## Extract CDR3 assembled by each of the tools
 
 We have extracted full-length CDR3 sequences based on the definition of CDR3. CDR3  is defined as the sequence of amino acids between the cysteine ( C ) on the right of the junction and phenylalanine ( F ) (for all TCR chains and immunoglobulin light chains) or tryptophan ( W ) (for IGH) on the left of the junction.
