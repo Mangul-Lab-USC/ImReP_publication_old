@@ -1,0 +1,397 @@
+"tissue1_ID","tissue1_name","tissue1_nCDR3","tissue2_ID","tissue2_name","tissue2_nCDR3","edge_weight"
+2,"Adrenal Gland",62,1,"Adipose - Visceral (Omentum)",158,0.018772973919
+3,"Artery - Aorta",112,1,"Adipose - Visceral (Omentum)",158,0.033898305085
+3,"Artery - Aorta",112,2,"Adrenal Gland",62,0.022129201243
+4,"Artery - Coronary",171,2,"Adrenal Gland",62,0.016574585635
+4,"Artery - Coronary",171,3,"Artery - Aorta",112,0.0392156862750001
+4,"Artery - Coronary",171,1,"Adipose - Visceral (Omentum)",158,0.030651340996
+5,"Breast - Mammary Tissue",695,4,"Artery - Coronary",171,0.021525512076
+5,"Breast - Mammary Tissue",695,3,"Artery - Aorta",112,0.00996376137300004
+5,"Breast - Mammary Tissue",695,1,"Adipose - Visceral (Omentum)",158,0.02421003446
+6,"Cells - EBV-transformed lymphocytes",54,5,"Breast - Mammary Tissue",695,0.00738854875999995
+6,"Cells - EBV-transformed lymphocytes",54,4,"Artery - Coronary",171,0.015189873418
+6,"Cells - EBV-transformed lymphocytes",54,3,"Artery - Aorta",112,0.019609727963
+6,"Cells - EBV-transformed lymphocytes",54,1,"Adipose - Visceral (Omentum)",158,0.0158730158730001
+6,"Cells - EBV-transformed lymphocytes",54,2,"Adrenal Gland",62,0.016666666667
+7,"Colon - Sigmoid",763,3,"Artery - Aorta",112,0.010971786834
+7,"Colon - Sigmoid",763,5,"Breast - Mammary Tissue",695,0.00425796994100003
+7,"Colon - Sigmoid",763,1,"Adipose - Visceral (Omentum)",158,0.00883384871500004
+7,"Colon - Sigmoid",763,6,"Cells - EBV-transformed lymphocytes",54,0.00878153366300005
+7,"Colon - Sigmoid",763,4,"Artery - Coronary",171,0.00773875787699996
+8,"Colon - Transverse",3798,3,"Artery - Aorta",112,0.00804020540899997
+8,"Colon - Transverse",3798,6,"Cells - EBV-transformed lymphocytes",54,0.00991726462800002
+8,"Colon - Transverse",3798,1,"Adipose - Visceral (Omentum)",158,0.00844238075100001
+8,"Colon - Transverse",3798,4,"Artery - Coronary",171,0.011242535229
+8,"Colon - Transverse",3798,2,"Adrenal Gland",62,0.00445726516099998
+8,"Colon - Transverse",3798,7,"Colon - Sigmoid",763,0.00494401628600005
+8,"Colon - Transverse",3798,5,"Breast - Mammary Tissue",695,0.00963617724999999
+9,"Esophagus - Gastroesophageal Junction",129,8,"Colon - Transverse",3798,0.002087138012
+9,"Esophagus - Gastroesophageal Junction",129,1,"Adipose - Visceral (Omentum)",158,0.013114754098
+9,"Esophagus - Gastroesophageal Junction",129,7,"Colon - Sigmoid",763,0.003801553836
+9,"Esophagus - Gastroesophageal Junction",129,5,"Breast - Mammary Tissue",695,0.00174064403800001
+10,"Esophagus - Mucosa",571,3,"Artery - Aorta",112,0.0158730158730001
+10,"Esophagus - Mucosa",571,1,"Adipose - Visceral (Omentum)",158,0.02186418427
+10,"Esophagus - Mucosa",571,7,"Colon - Sigmoid",763,0.017094017094
+10,"Esophagus - Mucosa",571,6,"Cells - EBV-transformed lymphocytes",54,0.020788878985
+10,"Esophagus - Mucosa",571,5,"Breast - Mammary Tissue",695,0.017357762777
+10,"Esophagus - Mucosa",571,4,"Artery - Coronary",171,0.029574861368
+10,"Esophagus - Mucosa",571,2,"Adrenal Gland",62,0.013346043851
+10,"Esophagus - Mucosa",571,9,"Esophagus - Gastroesophageal Junction",129,0.007677543186
+10,"Esophagus - Mucosa",571,8,"Colon - Transverse",3798,0.060948423583
+11,"Esophagus - Muscularis",32,4,"Artery - Coronary",171,0.00837988826799996
+11,"Esophagus - Muscularis",32,5,"Breast - Mammary Tissue",695,0.00166840458799999
+11,"Esophagus - Muscularis",32,3,"Artery - Aorta",112,0.00930232558099997
+11,"Esophagus - Muscularis",32,8,"Colon - Transverse",3798,0.00266636056799996
+11,"Esophagus - Muscularis",32,10,"Esophagus - Mucosa",571,0.00625219803800003
+12,"Heart - Atrial Appendage",34,1,"Adipose - Visceral (Omentum)",158,0.019417475728
+12,"Heart - Atrial Appendage",34,3,"Artery - Aorta",112,0.02283688313
+12,"Heart - Atrial Appendage",34,4,"Artery - Coronary",171,0.014480874317
+12,"Heart - Atrial Appendage",34,10,"Esophagus - Mucosa",571,0.00863309352499997
+12,"Heart - Atrial Appendage",34,8,"Colon - Transverse",3798,0.00315457413200004
+12,"Heart - Atrial Appendage",34,5,"Breast - Mammary Tissue",695,0.00249687890100003
+13,"Heart - Left Ventricle",22,1,"Adipose - Visceral (Omentum)",158,0.011560693642
+13,"Heart - Left Ventricle",22,10,"Esophagus - Mucosa",571,0.006122455355
+13,"Heart - Left Ventricle",22,3,"Artery - Aorta",112,0.00361663652800004
+13,"Heart - Left Ventricle",22,8,"Colon - Transverse",3798,0.00163800273600001
+13,"Heart - Left Ventricle",22,4,"Artery - Coronary",171,0.00278908529900002
+14,"Kidney - Cortex",562,10,"Esophagus - Mucosa",571,0.028282828283
+15,"Liver",365,6,"Cells - EBV-transformed lymphocytes",54,0.035087719298
+15,"Liver",365,10,"Esophagus - Mucosa",571,0.0329218107
+15,"Liver",365,2,"Adrenal Gland",62,0.0255737051579999
+15,"Liver",365,11,"Esophagus - Muscularis",32,0.006499506333
+15,"Liver",365,8,"Colon - Transverse",3798,0.0440799589949999
+15,"Liver",365,4,"Artery - Coronary",171,0.032
+15,"Liver",365,1,"Adipose - Visceral (Omentum)",158,0.03183583854
+15,"Liver",365,9,"Esophagus - Gastroesophageal Junction",129,0.00980046948299995
+15,"Liver",365,3,"Artery - Aorta",112,0.034682080925
+15,"Liver",365,12,"Heart - Atrial Appendage",34,0.013551152189
+15,"Liver",365,7,"Colon - Sigmoid",763,0.010748651205
+15,"Liver",365,13,"Heart - Left Ventricle",22,0.00568475035500005
+15,"Liver",365,5,"Breast - Mammary Tissue",695,0.024390243902
+16,"Lung",1016,2,"Adrenal Gland",62,0.012568814346
+16,"Lung",1016,6,"Cells - EBV-transformed lymphocytes",54,0.0141293600970001
+16,"Lung",1016,3,"Artery - Aorta",112,0.030188679245
+16,"Lung",1016,4,"Artery - Coronary",171,0.036216316079
+16,"Lung",1016,8,"Colon - Transverse",3798,0.055235903337
+16,"Lung",1016,12,"Heart - Atrial Appendage",34,0.011173184358
+16,"Lung",1016,10,"Esophagus - Mucosa",571,0.055072371797
+16,"Lung",1016,15,"Liver",365,0.06474246346
+16,"Lung",1016,9,"Esophagus - Gastroesophageal Junction",129,0.00652426472800005
+16,"Lung",1016,7,"Colon - Sigmoid",763,0.0128212058079999
+16,"Lung",1016,11,"Esophagus - Muscularis",32,0.00607441154099997
+16,"Lung",1016,5,"Breast - Mammary Tissue",695,0.037906081517
+16,"Lung",1016,13,"Heart - Left Ventricle",22,0.00553250345800005
+16,"Lung",1016,1,"Adipose - Visceral (Omentum)",158,0.031948881789
+17,"Minor Salivary Gland",4833,3,"Artery - Aorta",112,0.0151863924009999
+17,"Minor Salivary Gland",4833,7,"Colon - Sigmoid",763,0.00660589245599996
+17,"Minor Salivary Gland",4833,5,"Breast - Mammary Tissue",695,0.011487032218
+17,"Minor Salivary Gland",4833,11,"Esophagus - Muscularis",32,0.00205484976199999
+17,"Minor Salivary Gland",4833,8,"Colon - Transverse",3798,0.084260289575
+17,"Minor Salivary Gland",4833,1,"Adipose - Visceral (Omentum)",158,0.01046277666
+17,"Minor Salivary Gland",4833,6,"Cells - EBV-transformed lymphocytes",54,0.00783373004700005
+17,"Minor Salivary Gland",4833,10,"Esophagus - Mucosa",571,0.09224066748
+17,"Minor Salivary Gland",4833,13,"Heart - Left Ventricle",22,0.00178997923599999
+17,"Minor Salivary Gland",4833,16,"Lung",1016,0.111621433542
+17,"Minor Salivary Gland",4833,9,"Esophagus - Gastroesophageal Junction",129,0.00331016219799996
+18,"Muscle - Skeletal",17,8,"Colon - Transverse",3798,0.00160694198900002
+18,"Muscle - Skeletal",17,10,"Esophagus - Mucosa",571,0.00189933523300001
+18,"Muscle - Skeletal",17,16,"Lung",1016,0.00630914826499995
+19,"Nerve - Tibial",40,17,"Minor Salivary Gland",4833,0.00416666666700005
+19,"Nerve - Tibial",40,10,"Esophagus - Mucosa",571,0.00653594771199995
+19,"Nerve - Tibial",40,8,"Colon - Transverse",3798,0.00313479623799995
+19,"Nerve - Tibial",40,7,"Colon - Sigmoid",763,0.00450024019299999
+19,"Nerve - Tibial",40,1,"Adipose - Visceral (Omentum)",158,0.017959183674
+19,"Nerve - Tibial",40,3,"Artery - Aorta",112,0.014869888476
+19,"Nerve - Tibial",40,5,"Breast - Mammary Tissue",695,0.00585583109599996
+19,"Nerve - Tibial",40,12,"Heart - Atrial Appendage",34,0.0281690140850001
+19,"Nerve - Tibial",40,16,"Lung",1016,0.011764705882
+19,"Nerve - Tibial",40,15,"Liver",365,0.00909176293799996
+20,"Ovary",109,4,"Artery - Coronary",171,0.03305785124
+20,"Ovary",109,9,"Esophagus - Gastroesophageal Junction",129,0.00475549487899996
+20,"Ovary",109,15,"Liver",365,0.037974683544
+20,"Ovary",109,11,"Esophagus - Muscularis",32,0.014718614719
+20,"Ovary",109,10,"Esophagus - Mucosa",571,0.021840873635
+20,"Ovary",109,16,"Lung",1016,0.014016897082
+20,"Ovary",109,8,"Colon - Transverse",3798,0.00766577232700005
+20,"Ovary",109,2,"Adrenal Gland",62,0.019607843137
+20,"Ovary",109,12,"Heart - Atrial Appendage",34,0.004
+20,"Ovary",109,6,"Cells - EBV-transformed lymphocytes",54,0.023399014778
+20,"Ovary",109,3,"Artery - Aorta",112,0.0254633360199999
+20,"Ovary",109,5,"Breast - Mammary Tissue",695,0.00997246347500003
+20,"Ovary",109,7,"Colon - Sigmoid",763,0.012206066403
+20,"Ovary",109,13,"Heart - Left Ventricle",22,0.00892857142900005
+20,"Ovary",109,1,"Adipose - Visceral (Omentum)",158,0.025862068966
+21,"Pancreas",93,5,"Breast - Mammary Tissue",695,0.00609846610599996
+21,"Pancreas",93,4,"Artery - Coronary",171,0.00868621064099995
+21,"Pancreas",93,16,"Lung",1016,0.0146520146519999
+21,"Pancreas",93,10,"Esophagus - Mucosa",571,0.0129646434090001
+21,"Pancreas",93,8,"Colon - Transverse",3798,0.00605560387000004
+21,"Pancreas",93,9,"Esophagus - Gastroesophageal Junction",129,0.005906674542
+21,"Pancreas",93,17,"Minor Salivary Gland",4833,0.00598603259099995
+21,"Pancreas",93,15,"Liver",365,0.017094017094
+21,"Pancreas",93,2,"Adrenal Gland",62,0.00652712982799997
+21,"Pancreas",93,6,"Cells - EBV-transformed lymphocytes",54,0.014303959131
+21,"Pancreas",93,7,"Colon - Sigmoid",763,0.011188833075
+21,"Pancreas",93,20,"Ovary",109,0.010734115448
+21,"Pancreas",93,3,"Artery - Aorta",112,0.01362120089
+21,"Pancreas",93,1,"Adipose - Visceral (Omentum)",158,0.020288779089
+22,"Pituitary",55,10,"Esophagus - Mucosa",571,0.00873628993800002
+22,"Pituitary",55,16,"Lung",1016,0.018398680371
+22,"Pituitary",55,5,"Breast - Mammary Tissue",695,0.0198265179679999
+22,"Pituitary",55,1,"Adipose - Visceral (Omentum)",158,0.038723872387
+23,"Prostate",190,21,"Pancreas",93,0.014760348584
+23,"Prostate",190,8,"Colon - Transverse",3798,0.0133435355680001
+23,"Prostate",190,12,"Heart - Atrial Appendage",34,0.012195121951
+23,"Prostate",190,19,"Nerve - Tibial",40,0.012048192771
+23,"Prostate",190,4,"Artery - Coronary",171,0.026845637584
+23,"Prostate",190,1,"Adipose - Visceral (Omentum)",158,0.0240240240239999
+23,"Prostate",190,10,"Esophagus - Mucosa",571,0.0188501413760001
+23,"Prostate",190,13,"Heart - Left Ventricle",22,0.00291438980000003
+23,"Prostate",190,2,"Adrenal Gland",62,0.015550182804
+23,"Prostate",190,15,"Liver",365,0.016901408451
+23,"Prostate",190,7,"Colon - Sigmoid",763,0.00902282489999995
+23,"Prostate",190,3,"Artery - Aorta",112,0.02332361516
+23,"Prostate",190,16,"Lung",1016,0.028616872175
+23,"Prostate",190,6,"Cells - EBV-transformed lymphocytes",54,0.018362533692
+24,"Skin - Not Sun Exposed (Suprapubic)",40,5,"Breast - Mammary Tissue",695,0.00176723415299995
+24,"Skin - Not Sun Exposed (Suprapubic)",40,4,"Artery - Coronary",171,0.00722021660600003
+24,"Skin - Not Sun Exposed (Suprapubic)",40,8,"Colon - Transverse",3798,0.00286738351299998
+24,"Skin - Not Sun Exposed (Suprapubic)",40,20,"Ovary",109,0.016806722689
+24,"Skin - Not Sun Exposed (Suprapubic)",40,17,"Minor Salivary Gland",4833,0.00563277914100002
+24,"Skin - Not Sun Exposed (Suprapubic)",40,10,"Esophagus - Mucosa",571,0.00740162548199996
+24,"Skin - Not Sun Exposed (Suprapubic)",40,1,"Adipose - Visceral (Omentum)",158,0.00929341051599997
+24,"Skin - Not Sun Exposed (Suprapubic)",40,16,"Lung",1016,0.00850030358200005
+24,"Skin - Not Sun Exposed (Suprapubic)",40,3,"Artery - Aorta",112,0.00492721300300003
+24,"Skin - Not Sun Exposed (Suprapubic)",40,15,"Liver",365,0.00991908754100002
+25,"Skin - Sun Exposed (Lower leg)",23,14,"Kidney - Cortex",562,0.003913894325
+25,"Skin - Sun Exposed (Lower leg)",23,5,"Breast - Mammary Tissue",695,0.00130520052299998
+25,"Skin - Sun Exposed (Lower leg)",23,8,"Colon - Transverse",3798,0.00150283579800004
+25,"Skin - Sun Exposed (Lower leg)",23,17,"Minor Salivary Gland",4833,0.00164970359399996
+25,"Skin - Sun Exposed (Lower leg)",23,16,"Lung",1016,0.00437636761500004
+25,"Skin - Sun Exposed (Lower leg)",23,15,"Liver",365,0.00453967769800001
+25,"Skin - Sun Exposed (Lower leg)",23,1,"Adipose - Visceral (Omentum)",158,0.00300751879700001
+26,"Small Intestine - Terminal Ileum",3174,12,"Heart - Atrial Appendage",34,0.00479872034100004
+26,"Small Intestine - Terminal Ileum",3174,10,"Esophagus - Mucosa",571,0.068944290551
+26,"Small Intestine - Terminal Ileum",3174,19,"Nerve - Tibial",40,0.00372585309399998
+26,"Small Intestine - Terminal Ileum",3174,8,"Colon - Transverse",3798,0.112427309929
+26,"Small Intestine - Terminal Ileum",3174,5,"Breast - Mammary Tissue",695,0.013422818792
+26,"Small Intestine - Terminal Ileum",3174,4,"Artery - Coronary",171,0.015287922541
+26,"Small Intestine - Terminal Ileum",3174,2,"Adrenal Gland",62,0.00462784419600004
+26,"Small Intestine - Terminal Ileum",3174,7,"Colon - Sigmoid",763,0.010044642857
+26,"Small Intestine - Terminal Ileum",3174,6,"Cells - EBV-transformed lymphocytes",54,0.00819163513900001
+26,"Small Intestine - Terminal Ileum",3174,25,"Skin - Sun Exposed (Lower leg)",23,0.00214984846099997
+26,"Small Intestine - Terminal Ileum",3174,16,"Lung",1016,0.055627842505
+26,"Small Intestine - Terminal Ileum",3174,23,"Prostate",190,0.013736843618
+26,"Small Intestine - Terminal Ileum",3174,1,"Adipose - Visceral (Omentum)",158,0.013144922774
+26,"Small Intestine - Terminal Ileum",3174,21,"Pancreas",93,0.00900588846600003
+26,"Small Intestine - Terminal Ileum",3174,11,"Esophagus - Muscularis",32,0.00253164556999996
+26,"Small Intestine - Terminal Ileum",3174,24,"Skin - Not Sun Exposed (Suprapubic)",40,0.00436730188599999
+26,"Small Intestine - Terminal Ileum",3174,3,"Artery - Aorta",112,0.025409150626
+26,"Small Intestine - Terminal Ileum",3174,18,"Muscle - Skeletal",17,0.00131930932299995
+26,"Small Intestine - Terminal Ileum",3174,9,"Esophagus - Gastroesophageal Junction",129,0.00279407655800001
+26,"Small Intestine - Terminal Ileum",3174,13,"Heart - Left Ventricle",22,0.00407067503000003
+27,"Spleen",7505,19,"Nerve - Tibial",40,0.00385893450499997
+27,"Spleen",7505,2,"Adrenal Gland",62,0.00538951494399997
+27,"Spleen",7505,21,"Pancreas",93,0.00509148766900003
+27,"Spleen",7505,12,"Heart - Atrial Appendage",34,0.00329387545000004
+27,"Spleen",7505,26,"Small Intestine - Terminal Ileum",3174,0.13567839196
+27,"Spleen",7505,6,"Cells - EBV-transformed lymphocytes",54,0.00647975077899998
+27,"Spleen",7505,16,"Lung",1016,0.103749752224
+27,"Spleen",7505,7,"Colon - Sigmoid",763,0.00350930843899999
+27,"Spleen",7505,4,"Artery - Coronary",171,0.014541929229
+27,"Spleen",7505,5,"Breast - Mammary Tissue",695,0.00666910732799997
+27,"Spleen",7505,23,"Prostate",190,0.01338165598
+27,"Spleen",7505,10,"Esophagus - Mucosa",571,0.057305233247
+27,"Spleen",7505,8,"Colon - Transverse",3798,0.149080587437
+27,"Spleen",7505,11,"Esophagus - Muscularis",32,0.00270351456899998
+27,"Spleen",7505,15,"Liver",365,0.077787381158
+27,"Spleen",7505,3,"Artery - Aorta",112,0.010392826604
+27,"Spleen",7505,25,"Skin - Sun Exposed (Lower leg)",23,0.00134026817300004
+27,"Spleen",7505,24,"Skin - Not Sun Exposed (Suprapubic)",40,0.00310484834000002
+27,"Spleen",7505,13,"Heart - Left Ventricle",22,0.00231922471599999
+27,"Spleen",7505,1,"Adipose - Visceral (Omentum)",158,0.011301675424
+27,"Spleen",7505,18,"Muscle - Skeletal",17,0.00161308052200004
+27,"Spleen",7505,20,"Ovary",109,0.010508447175
+27,"Spleen",7505,9,"Esophagus - Gastroesophageal Junction",129,0.00303932121799999
+28,"Stomach",1364,4,"Artery - Coronary",171,0.025661604314
+28,"Stomach",1364,25,"Skin - Sun Exposed (Lower leg)",23,0.00133958472899998
+28,"Stomach",1364,8,"Colon - Transverse",3798,0.075399253235
+28,"Stomach",1364,21,"Pancreas",93,0.014598540146
+28,"Stomach",1364,26,"Small Intestine - Terminal Ileum",3174,0.101662707838
+28,"Stomach",1364,19,"Nerve - Tibial",40,0.00641840680200001
+28,"Stomach",1364,12,"Heart - Atrial Appendage",34,0.00778390777000004
+28,"Stomach",1364,6,"Cells - EBV-transformed lymphocytes",54,0.012403671978
+28,"Stomach",1364,11,"Esophagus - Muscularis",32,0.00469436661
+28,"Stomach",1364,2,"Adrenal Gland",62,0.010005558644
+28,"Stomach",1364,23,"Prostate",190,0.020808648257
+28,"Stomach",1364,7,"Colon - Sigmoid",763,0.0106221547799999
+28,"Stomach",1364,24,"Skin - Not Sun Exposed (Suprapubic)",40,0.00388726919299998
+28,"Stomach",1364,5,"Breast - Mammary Tissue",695,0.023022659596
+28,"Stomach",1364,16,"Lung",1016,0.097469478994
+28,"Stomach",1364,10,"Esophagus - Mucosa",571,0.073995019566
+28,"Stomach",1364,27,"Spleen",7505,0.094654301819
+28,"Stomach",1364,1,"Adipose - Visceral (Omentum)",158,0.023003194888
+28,"Stomach",1364,18,"Muscle - Skeletal",17,0.00196592398399997
+28,"Stomach",1364,3,"Artery - Aorta",112,0.020869565217
+28,"Stomach",1364,13,"Heart - Left Ventricle",22,0.00343053173200003
+28,"Stomach",1364,20,"Ovary",109,0.017104672339
+28,"Stomach",1364,15,"Liver",365,0.0551937984500001
+28,"Stomach",1364,9,"Esophagus - Gastroesophageal Junction",129,0.00565272698399999
+29,"Testis",22,10,"Esophagus - Mucosa",571,0.00309622734500004
+29,"Testis",22,4,"Artery - Coronary",171,0.00564971751400001
+29,"Testis",22,15,"Liver",365,0.003584229391
+29,"Testis",22,17,"Minor Salivary Gland",4833,0.00132934529700002
+29,"Testis",22,26,"Small Intestine - Terminal Ileum",3174,0.00191761478200003
+29,"Testis",22,27,"Spleen",7505,0.00152781070100005
+29,"Testis",22,8,"Colon - Transverse",3798,0.001946472019
+29,"Testis",22,28,"Stomach",1364,0.003326793188
+29,"Testis",22,16,"Lung",1016,0.00501352345799999
+30,"Thyroid",468,19,"Nerve - Tibial",40,0.011678211613
+30,"Thyroid",468,2,"Adrenal Gland",62,0.004520423908
+30,"Thyroid",468,26,"Small Intestine - Terminal Ileum",3174,0.012739112792
+30,"Thyroid",468,12,"Heart - Atrial Appendage",34,0.010362142422
+30,"Thyroid",468,8,"Colon - Transverse",3798,0.0110236247
+30,"Thyroid",468,23,"Prostate",190,0.011853189209
+30,"Thyroid",468,10,"Esophagus - Mucosa",571,0.019868421052
+30,"Thyroid",468,4,"Artery - Coronary",171,0.012759170654
+30,"Thyroid",468,20,"Ovary",109,0.015384615385
+30,"Thyroid",468,13,"Heart - Left Ventricle",22,0.00103199174400004
+30,"Thyroid",468,7,"Colon - Sigmoid",763,0.00299681588300005
+30,"Thyroid",468,15,"Liver",365,0.01949689924
+30,"Thyroid",468,3,"Artery - Aorta",112,0.012619426751
+30,"Thyroid",468,5,"Breast - Mammary Tissue",695,0.011930585683
+30,"Thyroid",468,21,"Pancreas",93,0.00524189797899999
+30,"Thyroid",468,17,"Minor Salivary Gland",4833,0.019692792438
+30,"Thyroid",468,6,"Cells - EBV-transformed lymphocytes",54,0.013976779275
+30,"Thyroid",468,16,"Lung",1016,0.0241935483870001
+30,"Thyroid",468,22,"Pituitary",55,0.00331950207499998
+30,"Thyroid",468,24,"Skin - Not Sun Exposed (Suprapubic)",40,0.00397298371099997
+30,"Thyroid",468,28,"Stomach",1364,0.01056532249
+30,"Thyroid",468,1,"Adipose - Visceral (Omentum)",158,0.0209973753279999
+30,"Thyroid",468,27,"Spleen",7505,0.01771151794
+31,"Uterus",124,2,"Adrenal Gland",62,0.02044386423
+31,"Uterus",124,19,"Nerve - Tibial",40,0.013464480874
+31,"Uterus",124,3,"Artery - Aorta",112,0.018553154897
+31,"Uterus",124,15,"Liver",365,0.027838646591
+31,"Uterus",124,20,"Ovary",109,0.026312159459
+31,"Uterus",124,10,"Esophagus - Mucosa",571,0.015151515152
+31,"Uterus",124,28,"Stomach",1364,0.016841369671
+31,"Uterus",124,16,"Lung",1016,0.015112772997
+31,"Uterus",124,4,"Artery - Coronary",171,0.011111111111
+31,"Uterus",124,11,"Esophagus - Muscularis",32,0.00744269538800002
+31,"Uterus",124,9,"Esophagus - Gastroesophageal Junction",129,0.00581395348799996
+31,"Uterus",124,27,"Spleen",7505,0.00656544932299996
+31,"Uterus",124,8,"Colon - Transverse",3798,0.00637567434999997
+31,"Uterus",124,30,"Thyroid",468,0.00569634363399996
+31,"Uterus",124,5,"Breast - Mammary Tissue",695,0.013178913738
+32,"Vagina",259,20,"Ovary",109,0.022105520274
+32,"Vagina",259,21,"Pancreas",93,0.01724137931
+32,"Vagina",259,10,"Esophagus - Mucosa",571,0.028866644879
+32,"Vagina",259,19,"Nerve - Tibial",40,0.012406193597
+32,"Vagina",259,11,"Esophagus - Muscularis",32,0.012066365008
+32,"Vagina",259,7,"Colon - Sigmoid",763,0.00128369704800002
+32,"Vagina",259,8,"Colon - Transverse",3798,0.00989915122700002
+32,"Vagina",259,1,"Adipose - Visceral (Omentum)",158,0.023201856148
+32,"Vagina",259,28,"Stomach",1364,0.03137254902
+32,"Vagina",259,15,"Liver",365,0.037613707807
+32,"Vagina",259,30,"Thyroid",468,0.013451319577
+32,"Vagina",259,24,"Skin - Not Sun Exposed (Suprapubic)",40,0.00622988123000001
+32,"Vagina",259,2,"Adrenal Gland",62,0.015309666141
+32,"Vagina",259,31,"Uterus",124,0.012345679012
+32,"Vagina",259,12,"Heart - Atrial Appendage",34,0.00304678655299995
+32,"Vagina",259,9,"Esophagus - Gastroesophageal Junction",129,0.001221001221
+32,"Vagina",259,6,"Cells - EBV-transformed lymphocytes",54,0.015055684306
+32,"Vagina",259,5,"Breast - Mammary Tissue",695,0.0214619823410001
+32,"Vagina",259,27,"Spleen",7505,0.00977715664000001
+32,"Vagina",259,16,"Lung",1016,0.025027177268
+32,"Vagina",259,3,"Artery - Aorta",112,0.016772895002
+32,"Vagina",259,4,"Artery - Coronary",171,0.0251572327040001
+33,"Whole Blood",898,11,"Esophagus - Muscularis",32,0.00740903353300004
+33,"Whole Blood",898,19,"Nerve - Tibial",40,0.01117971279
+33,"Whole Blood",898,10,"Esophagus - Mucosa",571,0.05014581173
+33,"Whole Blood",898,30,"Thyroid",468,0.024489795918
+33,"Whole Blood",898,9,"Esophagus - Gastroesophageal Junction",129,0.00756620428800003
+33,"Whole Blood",898,7,"Colon - Sigmoid",763,0.010899182561
+33,"Whole Blood",898,20,"Ovary",109,0.022514071295
+33,"Whole Blood",898,17,"Minor Salivary Gland",4833,0.0377871000959999
+33,"Whole Blood",898,15,"Liver",365,0.071884954892
+33,"Whole Blood",898,2,"Adrenal Gland",62,0.020086083214
+33,"Whole Blood",898,28,"Stomach",1364,0.05888302261
+33,"Whole Blood",898,4,"Artery - Coronary",171,0.026491228071
+33,"Whole Blood",898,6,"Cells - EBV-transformed lymphocytes",54,0.023954878763
+33,"Whole Blood",898,8,"Colon - Transverse",3798,0.050784542527
+33,"Whole Blood",898,1,"Adipose - Visceral (Omentum)",158,0.026495329706
+33,"Whole Blood",898,22,"Pituitary",55,0.011299435028
+33,"Whole Blood",898,3,"Artery - Aorta",112,0.02861236185
+33,"Whole Blood",898,26,"Small Intestine - Terminal Ileum",3174,0.056599396892
+33,"Whole Blood",898,32,"Vagina",259,0.026865671642
+33,"Whole Blood",898,13,"Heart - Left Ventricle",22,0.00751879699199998
+33,"Whole Blood",898,21,"Pancreas",93,0.015167930661
+33,"Whole Blood",898,24,"Skin - Not Sun Exposed (Suprapubic)",40,0.00833564879100002
+33,"Whole Blood",898,27,"Spleen",7505,0.060155760451
+33,"Whole Blood",898,29,"Testis",22,0.00432900432899996
+33,"Whole Blood",898,18,"Muscle - Skeletal",17,0.00461020460999995
+33,"Whole Blood",898,25,"Skin - Sun Exposed (Lower leg)",23,0.00534955429299999
+33,"Whole Blood",898,31,"Uterus",124,0.014928698753
+33,"Whole Blood",898,12,"Heart - Atrial Appendage",34,0.010178182948
+33,"Whole Blood",898,14,"Kidney - Cortex",562,0.027327013616
+33,"Whole Blood",898,23,"Prostate",190,0.031124747961
+33,"Whole Blood",898,16,"Lung",1016,0.091235263967
+33,"Whole Blood",898,5,"Breast - Mammary Tissue",695,0.034482758621
+34,"Adipose - Subcutaneous",41,17,"Minor Salivary Gland",4833,0.00368193278399997
+34,"Adipose - Subcutaneous",41,30,"Thyroid",468,0.00139303482599995
+34,"Adipose - Subcutaneous",41,20,"Ovary",109,0.00757411031400002
+34,"Adipose - Subcutaneous",41,33,"Whole Blood",898,0.012345679012
+34,"Adipose - Subcutaneous",41,15,"Liver",365,0.012335441632
+34,"Adipose - Subcutaneous",41,28,"Stomach",1364,0.00485436893199997
+34,"Adipose - Subcutaneous",41,10,"Esophagus - Mucosa",571,0.00896860986500003
+34,"Adipose - Subcutaneous",41,4,"Artery - Coronary",171,0.010638297872
+34,"Adipose - Subcutaneous",41,8,"Colon - Transverse",3798,0.00358125308599999
+34,"Adipose - Subcutaneous",41,1,"Adipose - Visceral (Omentum)",158,0.017543859649
+34,"Adipose - Subcutaneous",41,27,"Spleen",7505,0.00444091990499995
+34,"Adipose - Subcutaneous",41,3,"Artery - Aorta",112,0.012720077532
+34,"Adipose - Subcutaneous",41,26,"Small Intestine - Terminal Ileum",3174,0.00353305901300005
+34,"Adipose - Subcutaneous",41,31,"Uterus",124,0.010048032587
+34,"Adipose - Subcutaneous",41,32,"Vagina",259,0.00802197309099995
+34,"Adipose - Subcutaneous",41,5,"Breast - Mammary Tissue",695,0.00749063670399996
+34,"Adipose - Subcutaneous",41,14,"Kidney - Cortex",562,0.0165975103729999
+34,"Adipose - Subcutaneous",41,16,"Lung",1016,0.013258707342
+34,"Adipose - Subcutaneous",41,7,"Colon - Sigmoid",763,0.00186567164200002
+35,"Artery - Tibial",32,33,"Whole Blood",898,0.005479452055
+35,"Artery - Tibial",32,27,"Spleen",7505,0.00191986008599998
+35,"Artery - Tibial",32,10,"Esophagus - Mucosa",571,0.00293685756200002
+35,"Artery - Tibial",32,8,"Colon - Transverse",3798,0.00141309467700002
+35,"Artery - Tibial",32,28,"Stomach",1364,0.00182001906200002
+35,"Artery - Tibial",32,15,"Liver",365,0.00283286119000004
+35,"Artery - Tibial",32,16,"Lung",1016,0.00552486187800005
+35,"Artery - Tibial",32,26,"Small Intestine - Terminal Ileum",3174,0.00270114663099996
+35,"Artery - Tibial",32,17,"Minor Salivary Gland",4833,0.00186683260700005
+36,"Cells - Transformed fibroblasts",9,28,"Stomach",1364,0.00114020290799999
+36,"Cells - Transformed fibroblasts",9,27,"Spleen",7505,0.00104365976700005
+36,"Cells - Transformed fibroblasts",9,33,"Whole Blood",898,0.00148213801300001
+36,"Cells - Transformed fibroblasts",9,15,"Liver",365,0.00236176866600002
+36,"Cells - Transformed fibroblasts",9,16,"Lung",1016,0.00170357751299999
+37,"Brain - Amygdala",12,33,"Whole Blood",898,0.00244355317900002
+37,"Brain - Amygdala",12,16,"Lung",1016,0.00336640211600003
+38,"Brain - Anterior cingulate cortex (BA24)",7,33,"Whole Blood",898,0.00182475092199996
+38,"Brain - Anterior cingulate cortex (BA24)",7,16,"Lung",1016,0.00215285252999997
+39,"Brain - Caudate (basal ganglia)",10,16,"Lung",1016,0.00325356179400005
+39,"Brain - Caudate (basal ganglia)",10,33,"Whole Blood",898,0.00262467191600002
+40,"Brain - Cerebellum",8,33,"Whole Blood",898,0.00263504611300003
+40,"Brain - Cerebellum",8,16,"Lung",1016,0.00151656265400002
+41,"Brain - Cortex",10,33,"Whole Blood",898,0.00186915887899997
+41,"Brain - Cortex",10,16,"Lung",1016,0.00152531726600003
+42,"Brain - Frontal Cortex (BA9)",7,33,"Whole Blood",898,0.00228767514999995
+42,"Brain - Frontal Cortex (BA9)",7,16,"Lung",1016,0.00211640211599995
+43,"Brain - Hippocampus",9,16,"Lung",1016,0.00211714890600001
+43,"Brain - Hippocampus",9,33,"Whole Blood",898,0.00381589425100004
+44,"Brain - Nucleus accumbens (basal ganglia)",9,33,"Whole Blood",898,0.00165920408099995
+44,"Brain - Nucleus accumbens (basal ganglia)",9,16,"Lung",1016,0.00219634440200001
+45,"Brain - Putamen (basal ganglia)",8,33,"Whole Blood",898,0.00260990880699996
+45,"Brain - Putamen (basal ganglia)",8,16,"Lung",1016,0.00168539325799999
+46,"Brain - Spinal cord (cervical c-1)",15,33,"Whole Blood",898,0.00229260905499995
+46,"Brain - Spinal cord (cervical c-1)",15,16,"Lung",1016,0.00132993479099996
+47,"Brain - Substantia nigra",11,16,"Lung",1016,0.00289435600599997
+47,"Brain - Substantia nigra",11,33,"Whole Blood",898,0.00298953662199997
+48,"Brain - Cerebellar Hemisphere",5,33,"Whole Blood",898,0.00171722953599995
+49,"Brain - Hypothalamus",10,33,"Whole Blood",898,0.00164580854899998

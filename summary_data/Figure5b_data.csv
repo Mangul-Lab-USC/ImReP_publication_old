@@ -1,0 +1,57 @@
+"tissue1_ID","tissue1_name","tissue1_nCDR3","tissue2_ID","tissue2_name","tissue2_nCDR3","edge_weight"
+3,"Lung",621,1,"Esophagus - Mucosa",303,0.00559750200999998
+3,"Lung",621,2,"Liver",143,0.00599290780200001
+4,"Minor Salivary Gland",3557,1,"Esophagus - Mucosa",303,0.0191084188790001
+4,"Minor Salivary Gland",3557,3,"Lung",621,0.010629251701
+5,"Pancreas",42,4,"Minor Salivary Gland",3557,0.00101342792000003
+6,"Prostate",76,3,"Lung",621,0.00191084895000004
+7,"Small Intestine - Terminal Ileum",2017,1,"Esophagus - Mucosa",303,0.00505816894300004
+7,"Small Intestine - Terminal Ileum",2017,3,"Lung",621,0.00303693661899995
+8,"Spleen",5390,1,"Esophagus - Mucosa",303,0.00747745766399999
+8,"Spleen",5390,2,"Liver",143,0.015610023278
+8,"Spleen",5390,7,"Small Intestine - Terminal Ileum",2017,0.013405867496
+8,"Spleen",5390,3,"Lung",621,0.021711002636
+8,"Spleen",5390,6,"Prostate",76,0.00128741551300005
+9,"Stomach",843,7,"Small Intestine - Terminal Ileum",2017,0.00606366851899998
+9,"Stomach",843,1,"Esophagus - Mucosa",303,0.00720164609100005
+9,"Stomach",843,8,"Spleen",5390,0.00809551104399997
+9,"Stomach",843,2,"Liver",143,0.00423280423299999
+9,"Stomach",843,3,"Lung",621,0.014940151285
+10,"Thyroid",301,3,"Lung",621,0.00198807157100001
+10,"Thyroid",301,8,"Spleen",5390,0.00279700732599997
+11,"Uterus",57,8,"Spleen",5390,0.00109569028500001
+12,"Vagina",168,3,"Lung",621,0.00204826518300005
+12,"Vagina",168,8,"Spleen",5390,0.00158197146600003
+13,"Whole Blood",515,7,"Small Intestine - Terminal Ileum",2017,0.00259403372199996
+13,"Whole Blood",515,2,"Liver",143,0.00709932854299999
+13,"Whole Blood",515,3,"Lung",621,0.00750469043199997
+13,"Whole Blood",515,8,"Spleen",5390,0.00589334483299997
+13,"Whole Blood",515,4,"Minor Salivary Gland",3557,0.00323773354000001
+14,"Colon - Transverse",2872,2,"Liver",143,0.00253244697699995
+14,"Colon - Transverse",2872,1,"Esophagus - Mucosa",303,0.00471869833600003
+14,"Colon - Transverse",2872,9,"Stomach",843,0.00698269157200004
+14,"Colon - Transverse",2872,8,"Spleen",5390,0.00706455541999995
+14,"Colon - Transverse",2872,7,"Small Intestine - Terminal Ileum",2017,0.0158550396379999
+14,"Colon - Transverse",2872,3,"Lung",621,0.00319262149699995
+14,"Colon - Transverse",2872,13,"Whole Blood",515,0.00163216192399995
+14,"Colon - Transverse",2872,4,"Minor Salivary Gland",3557,0.00471526746999995
+15,"Artery - Coronary",112,8,"Spleen",5390,0.00447227191400001
+15,"Artery - Coronary",112,2,"Liver",143,0.00790513833999995
+15,"Artery - Coronary",112,3,"Lung",621,0.00351283381900003
+15,"Artery - Coronary",112,7,"Small Intestine - Terminal Ileum",2017,0.00133422281499995
+16,"Adipose - Visceral (Omentum)",106,3,"Lung",621,0.00647249190900001
+16,"Adipose - Visceral (Omentum)",106,4,"Minor Salivary Gland",3557,0.00135363790200005
+16,"Adipose - Visceral (Omentum)",106,13,"Whole Blood",515,0.00294670846400003
+16,"Adipose - Visceral (Omentum)",106,8,"Spleen",5390,0.00276816608999997
+17,"Artery - Aorta",82,3,"Lung",621,0.00680272108799995
+17,"Artery - Aorta",82,9,"Stomach",843,0.00186741363200005
+17,"Artery - Aorta",82,4,"Minor Salivary Gland",3557,0.00219802119699997
+17,"Artery - Aorta",82,8,"Spleen",5390,0.00215409756399998
+18,"Breast - Mammary Tissue",436,4,"Minor Salivary Gland",3557,0.00148975791399997
+18,"Breast - Mammary Tissue",436,9,"Stomach",843,0.00154380915300001
+18,"Breast - Mammary Tissue",436,8,"Spleen",5390,0.00212253297300002
+18,"Breast - Mammary Tissue",436,3,"Lung",621,0.00210268862600005
+19,"Colon - Sigmoid",691,9,"Stomach",843,0.00140252454400003
+19,"Colon - Sigmoid",691,3,"Lung",621,0.00104374057300005
+20,"Adrenal Gland",32,8,"Spleen",5390,0.00222551928799997
+21,"Ovary",49,8,"Spleen",5390,0.00145825738200001

@@ -1,0 +1,871 @@
+tissue1,tissue2,IGH,IGK,IGL,TRA,TRB,TRD,TRG
+Adipose - Visceral (Omentum),Adipose - Subcutaneous,1.0,0.982456140351,1.0,1.0,1.0,1.0,1.0
+Adrenal Gland,Adipose - Subcutaneous,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Adrenal Gland,Adipose - Visceral (Omentum),1.0,0.981227026081,1.0,1.0,1.0,1.0,1.0
+Artery - Aorta,Adipose - Subcutaneous,1.0,0.987279922468,1.0,1.0,1.0,1.0,1.0
+Artery - Aorta,Adipose - Visceral (Omentum),1.0,0.966101694915,0.987179487179,1.0,1.0,1.0,1.0
+Artery - Aorta,Adrenal Gland,1.0,0.977870798757,0.992831541219,1.0,1.0,1.0,1.0
+Artery - Coronary,Adipose - Subcutaneous,1.0,0.989361702128,1.0,1.0,1.0,1.0,1.0
+Artery - Coronary,Adipose - Visceral (Omentum),1.0,0.969348659004,0.973333333333,1.0,1.0,1.0,1.0
+Artery - Coronary,Adrenal Gland,1.0,0.983425414365,0.994117647059,1.0,1.0,1.0,1.0
+Artery - Coronary,Artery - Aorta,1.0,0.960784313725,0.986801242236,1.0,1.0,1.0,1.0
+Artery - Tibial,Adipose - Subcutaneous,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Artery - Tibial,Adipose - Visceral (Omentum),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Artery - Tibial,Adrenal Gland,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Artery - Tibial,Artery - Aorta,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Artery - Tibial,Artery - Coronary,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Amygdala,Adipose - Subcutaneous,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Amygdala,Artery - Aorta,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Amygdala,Artery - Tibial,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Anterior cingulate cortex (BA24),Adipose - Subcutaneous,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Anterior cingulate cortex (BA24),Adipose - Visceral (Omentum),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Anterior cingulate cortex (BA24),Artery - Aorta,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Anterior cingulate cortex (BA24),Artery - Tibial,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Anterior cingulate cortex (BA24),Brain - Amygdala,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Caudate (basal ganglia),Adipose - Subcutaneous,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Caudate (basal ganglia),Adipose - Visceral (Omentum),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Caudate (basal ganglia),Artery - Aorta,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Caudate (basal ganglia),Artery - Tibial,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Caudate (basal ganglia),Brain - Amygdala,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Caudate (basal ganglia),Brain - Anterior cingulate cortex (BA24),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Cerebellar Hemisphere,Adipose - Subcutaneous,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Cerebellar Hemisphere,Adipose - Visceral (Omentum),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Cerebellar Hemisphere,Artery - Aorta,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Cerebellar Hemisphere,Artery - Tibial,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Cerebellar Hemisphere,Brain - Amygdala,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Cerebellar Hemisphere,Brain - Anterior cingulate cortex (BA24),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Cerebellar Hemisphere,Brain - Caudate (basal ganglia),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Cerebellum,Adipose - Subcutaneous,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Cerebellum,Adipose - Visceral (Omentum),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Cerebellum,Artery - Aorta,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Cerebellum,Artery - Tibial,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Cerebellum,Brain - Amygdala,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Cerebellum,Brain - Anterior cingulate cortex (BA24),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Cerebellum,Brain - Caudate (basal ganglia),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Cerebellum,Brain - Cerebellar Hemisphere,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Cortex,Adipose - Subcutaneous,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Cortex,Adipose - Visceral (Omentum),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Cortex,Artery - Aorta,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Cortex,Artery - Tibial,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Cortex,Brain - Amygdala,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Cortex,Brain - Anterior cingulate cortex (BA24),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Cortex,Brain - Caudate (basal ganglia),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Cortex,Brain - Cerebellar Hemisphere,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Cortex,Brain - Cerebellum,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Frontal Cortex (BA9),Adipose - Subcutaneous,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Frontal Cortex (BA9),Adipose - Visceral (Omentum),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Frontal Cortex (BA9),Artery - Aorta,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Frontal Cortex (BA9),Artery - Tibial,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Frontal Cortex (BA9),Brain - Amygdala,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Frontal Cortex (BA9),Brain - Anterior cingulate cortex (BA24),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Frontal Cortex (BA9),Brain - Caudate (basal ganglia),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Frontal Cortex (BA9),Brain - Cerebellar Hemisphere,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Frontal Cortex (BA9),Brain - Cerebellum,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Frontal Cortex (BA9),Brain - Cortex,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Hippocampus,Adipose - Subcutaneous,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Hippocampus,Artery - Aorta,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Hippocampus,Artery - Tibial,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Hippocampus,Brain - Amygdala,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Hippocampus,Brain - Anterior cingulate cortex (BA24),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Hippocampus,Brain - Caudate (basal ganglia),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Hippocampus,Brain - Cerebellar Hemisphere,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Hippocampus,Brain - Cerebellum,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Hippocampus,Brain - Cortex,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Hippocampus,Brain - Frontal Cortex (BA9),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Hypothalamus,Adipose - Subcutaneous,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Hypothalamus,Artery - Tibial,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Hypothalamus,Brain - Amygdala,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Hypothalamus,Brain - Anterior cingulate cortex (BA24),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Hypothalamus,Brain - Caudate (basal ganglia),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Hypothalamus,Brain - Cerebellar Hemisphere,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Hypothalamus,Brain - Cerebellum,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Hypothalamus,Brain - Cortex,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Hypothalamus,Brain - Frontal Cortex (BA9),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Hypothalamus,Brain - Hippocampus,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Nucleus accumbens (basal ganglia),Adipose - Subcutaneous,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Nucleus accumbens (basal ganglia),Adipose - Visceral (Omentum),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Nucleus accumbens (basal ganglia),Artery - Aorta,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Nucleus accumbens (basal ganglia),Artery - Tibial,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Nucleus accumbens (basal ganglia),Brain - Amygdala,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Nucleus accumbens (basal ganglia),Brain - Anterior cingulate cortex (BA24),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Nucleus accumbens (basal ganglia),Brain - Caudate (basal ganglia),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Nucleus accumbens (basal ganglia),Brain - Cerebellar Hemisphere,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Nucleus accumbens (basal ganglia),Brain - Cerebellum,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Nucleus accumbens (basal ganglia),Brain - Cortex,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Nucleus accumbens (basal ganglia),Brain - Frontal Cortex (BA9),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Nucleus accumbens (basal ganglia),Brain - Hippocampus,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Nucleus accumbens (basal ganglia),Brain - Hypothalamus,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Putamen (basal ganglia),Adipose - Subcutaneous,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Putamen (basal ganglia),Artery - Aorta,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Putamen (basal ganglia),Artery - Tibial,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Putamen (basal ganglia),Brain - Amygdala,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Putamen (basal ganglia),Brain - Anterior cingulate cortex (BA24),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Putamen (basal ganglia),Brain - Caudate (basal ganglia),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Putamen (basal ganglia),Brain - Cerebellar Hemisphere,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Putamen (basal ganglia),Brain - Cerebellum,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Putamen (basal ganglia),Brain - Cortex,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Putamen (basal ganglia),Brain - Frontal Cortex (BA9),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Putamen (basal ganglia),Brain - Hippocampus,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Putamen (basal ganglia),Brain - Hypothalamus,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Putamen (basal ganglia),Brain - Nucleus accumbens (basal ganglia),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Spinal cord (cervical c-1),Adipose - Subcutaneous,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Spinal cord (cervical c-1),Adipose - Visceral (Omentum),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Spinal cord (cervical c-1),Artery - Tibial,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Spinal cord (cervical c-1),Brain - Amygdala,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Spinal cord (cervical c-1),Brain - Anterior cingulate cortex (BA24),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Spinal cord (cervical c-1),Brain - Caudate (basal ganglia),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Spinal cord (cervical c-1),Brain - Cerebellar Hemisphere,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Spinal cord (cervical c-1),Brain - Cerebellum,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Spinal cord (cervical c-1),Brain - Cortex,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Spinal cord (cervical c-1),Brain - Frontal Cortex (BA9),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Spinal cord (cervical c-1),Brain - Hippocampus,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Spinal cord (cervical c-1),Brain - Hypothalamus,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Spinal cord (cervical c-1),Brain - Nucleus accumbens (basal ganglia),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Spinal cord (cervical c-1),Brain - Putamen (basal ganglia),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Substantia nigra,Adipose - Subcutaneous,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Substantia nigra,Artery - Aorta,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Substantia nigra,Artery - Tibial,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Substantia nigra,Brain - Amygdala,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Substantia nigra,Brain - Anterior cingulate cortex (BA24),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Substantia nigra,Brain - Caudate (basal ganglia),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Substantia nigra,Brain - Cerebellar Hemisphere,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Substantia nigra,Brain - Cerebellum,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Substantia nigra,Brain - Cortex,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Substantia nigra,Brain - Frontal Cortex (BA9),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Substantia nigra,Brain - Hippocampus,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Substantia nigra,Brain - Hypothalamus,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Substantia nigra,Brain - Nucleus accumbens (basal ganglia),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Substantia nigra,Brain - Putamen (basal ganglia),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Brain - Substantia nigra,Brain - Spinal cord (cervical c-1),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Breast - Mammary Tissue,Adipose - Subcutaneous,1.0,0.992509363296,1.0,1.0,1.0,1.0,1.0
+Breast - Mammary Tissue,Adipose - Visceral (Omentum),1.0,0.97578996554,0.996464078375,1.0,1.0,1.0,1.0
+Breast - Mammary Tissue,Adrenal Gland,1.0,0.999442431001,1.0,1.0,1.0,1.0,1.0
+Breast - Mammary Tissue,Artery - Aorta,1.0,0.990036238627,0.99911531915,1.0,1.0,1.0,1.0
+Breast - Mammary Tissue,Artery - Coronary,1.0,0.978474487924,0.99278192515,1.0,1.0,1.0,1.0
+Breast - Mammary Tissue,Artery - Tibial,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Breast - Mammary Tissue,Brain - Caudate (basal ganglia),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Breast - Mammary Tissue,Brain - Cerebellar Hemisphere,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Breast - Mammary Tissue,Brain - Cerebellum,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Breast - Mammary Tissue,Brain - Cortex,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Breast - Mammary Tissue,Brain - Frontal Cortex (BA9),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Breast - Mammary Tissue,Brain - Hippocampus,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Breast - Mammary Tissue,Brain - Nucleus accumbens (basal ganglia),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Breast - Mammary Tissue,Brain - Substantia nigra,1.0,0.999619265182,1.0,1.0,1.0,1.0,1.0
+Cells - EBV-transformed lymphocytes,Adipose - Subcutaneous,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Cells - EBV-transformed lymphocytes,Adipose - Visceral (Omentum),1.0,0.984126984127,1.0,1.0,1.0,1.0,1.0
+Cells - EBV-transformed lymphocytes,Adrenal Gland,1.0,0.983333333333,1.0,1.0,1.0,1.0,1.0
+Cells - EBV-transformed lymphocytes,Artery - Aorta,1.0,0.980390272037,1.0,1.0,1.0,1.0,1.0
+Cells - EBV-transformed lymphocytes,Artery - Coronary,1.0,0.984810126582,1.0,1.0,1.0,1.0,1.0
+Cells - EBV-transformed lymphocytes,Artery - Tibial,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Cells - EBV-transformed lymphocytes,Breast - Mammary Tissue,1.0,0.99261145124,1.0,1.0,1.0,1.0,1.0
+Cells - Transformed fibroblasts,Adipose - Subcutaneous,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Cells - Transformed fibroblasts,Adipose - Visceral (Omentum),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Cells - Transformed fibroblasts,Adrenal Gland,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Cells - Transformed fibroblasts,Artery - Aorta,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Cells - Transformed fibroblasts,Artery - Coronary,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Cells - Transformed fibroblasts,Artery - Tibial,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Cells - Transformed fibroblasts,Brain - Amygdala,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Cells - Transformed fibroblasts,Brain - Anterior cingulate cortex (BA24),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Cells - Transformed fibroblasts,Brain - Caudate (basal ganglia),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Cells - Transformed fibroblasts,Brain - Cerebellar Hemisphere,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Cells - Transformed fibroblasts,Brain - Cerebellum,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Cells - Transformed fibroblasts,Brain - Cortex,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Cells - Transformed fibroblasts,Brain - Frontal Cortex (BA9),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Cells - Transformed fibroblasts,Brain - Hippocampus,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Cells - Transformed fibroblasts,Brain - Hypothalamus,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Cells - Transformed fibroblasts,Brain - Nucleus accumbens (basal ganglia),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Cells - Transformed fibroblasts,Brain - Putamen (basal ganglia),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Cells - Transformed fibroblasts,Brain - Spinal cord (cervical c-1),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Cells - Transformed fibroblasts,Brain - Substantia nigra,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Cells - Transformed fibroblasts,Breast - Mammary Tissue,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Cells - Transformed fibroblasts,Cells - EBV-transformed lymphocytes,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Colon - Sigmoid,Adipose - Subcutaneous,1.0,0.998134328358,1.0,1.0,1.0,1.0,1.0
+Colon - Sigmoid,Adipose - Visceral (Omentum),1.0,0.991166151285,1.0,1.0,1.0,1.0,1.0
+Colon - Sigmoid,Adrenal Gland,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Colon - Sigmoid,Artery - Aorta,1.0,0.989028213166,1.0,1.0,1.0,1.0,1.0
+Colon - Sigmoid,Artery - Coronary,1.0,0.992261242123,1.0,1.0,1.0,1.0,1.0
+Colon - Sigmoid,Artery - Tibial,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Colon - Sigmoid,Breast - Mammary Tissue,1.0,0.995742030059,0.999377334994,1.0,1.0,1.0,1.0
+Colon - Sigmoid,Cells - EBV-transformed lymphocytes,1.0,0.991218466337,1.0,1.0,1.0,1.0,1.0
+Colon - Sigmoid,Cells - Transformed fibroblasts,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Colon - Transverse,Adipose - Subcutaneous,1.0,0.996418746914,0.998806901224,1.0,1.0,1.0,1.0
+Colon - Transverse,Adipose - Visceral (Omentum),0.999520038397,0.991557619249,0.995884773663,1.0,1.0,1.0,1.0
+Colon - Transverse,Adrenal Gland,1.0,0.995542734839,0.99829611093,1.0,1.0,1.0,1.0
+Colon - Transverse,Artery - Aorta,0.999880067162,0.991959794591,0.995807860134,1.0,1.0,1.0,1.0
+Colon - Transverse,Artery - Coronary,0.999812839229,0.988757464771,0.996112390673,1.0,1.0,1.0,1.0
+Colon - Transverse,Artery - Tibial,1.0,0.998586905323,1.0,1.0,1.0,1.0,1.0
+Colon - Transverse,Breast - Mammary Tissue,1.0,0.99036382275,0.995156976957,1.0,1.0,1.0,1.0
+Colon - Transverse,Cells - EBV-transformed lymphocytes,1.0,0.990082735372,0.995514343382,1.0,1.0,1.0,1.0
+Colon - Transverse,Cells - Transformed fibroblasts,1.0,0.999016232169,1.0,1.0,1.0,1.0,1.0
+Colon - Transverse,Colon - Sigmoid,1.0,0.995055983714,0.996528531135,1.0,1.0,1.0,1.0
+Esophagus - Gastroesophageal Junction,Adipose - Subcutaneous,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Esophagus - Gastroesophageal Junction,Adipose - Visceral (Omentum),1.0,0.986885245902,1.0,1.0,1.0,1.0,1.0
+Esophagus - Gastroesophageal Junction,Adrenal Gland,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Esophagus - Gastroesophageal Junction,Artery - Aorta,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Esophagus - Gastroesophageal Junction,Artery - Coronary,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Esophagus - Gastroesophageal Junction,Artery - Tibial,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Esophagus - Gastroesophageal Junction,Brain - Cortex,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Esophagus - Gastroesophageal Junction,Breast - Mammary Tissue,1.0,0.998259355962,1.0,1.0,1.0,1.0,1.0
+Esophagus - Gastroesophageal Junction,Cells - EBV-transformed lymphocytes,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Esophagus - Gastroesophageal Junction,Cells - Transformed fibroblasts,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Esophagus - Gastroesophageal Junction,Colon - Sigmoid,1.0,0.996198446164,1.0,1.0,1.0,1.0,1.0
+Esophagus - Gastroesophageal Junction,Colon - Transverse,1.0,0.997912861988,0.998913633895,1.0,1.0,1.0,1.0
+Esophagus - Mucosa,Adipose - Subcutaneous,1.0,0.991031390135,1.0,1.0,1.0,1.0,1.0
+Esophagus - Mucosa,Adipose - Visceral (Omentum),1.0,0.97813581573,0.990943950395,1.0,1.0,1.0,1.0
+Esophagus - Mucosa,Adrenal Gland,1.0,0.986653956149,0.996428571429,1.0,1.0,1.0,1.0
+Esophagus - Mucosa,Artery - Aorta,1.0,0.984126984127,0.993854033291,1.0,1.0,1.0,1.0
+Esophagus - Mucosa,Artery - Coronary,1.0,0.970425138632,0.99012345679,1.0,1.0,1.0,1.0
+Esophagus - Mucosa,Artery - Tibial,1.0,0.997063142438,1.0,1.0,1.0,1.0,1.0
+Esophagus - Mucosa,Brain - Amygdala,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Esophagus - Mucosa,Brain - Anterior cingulate cortex (BA24),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Esophagus - Mucosa,Brain - Caudate (basal ganglia),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Esophagus - Mucosa,Brain - Cerebellar Hemisphere,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Esophagus - Mucosa,Brain - Cerebellum,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Esophagus - Mucosa,Brain - Cortex,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Esophagus - Mucosa,Brain - Frontal Cortex (BA9),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Esophagus - Mucosa,Brain - Hippocampus,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Esophagus - Mucosa,Brain - Hypothalamus,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Esophagus - Mucosa,Brain - Nucleus accumbens (basal ganglia),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Esophagus - Mucosa,Brain - Putamen (basal ganglia),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Esophagus - Mucosa,Brain - Spinal cord (cervical c-1),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Esophagus - Mucosa,Brain - Substantia nigra,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Esophagus - Mucosa,Breast - Mammary Tissue,1.0,0.982642237223,0.991304347826,1.0,1.0,1.0,1.0
+Esophagus - Mucosa,Cells - EBV-transformed lymphocytes,1.0,0.979211121015,0.990528090886,1.0,1.0,1.0,1.0
+Esophagus - Mucosa,Cells - Transformed fibroblasts,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Esophagus - Mucosa,Colon - Sigmoid,1.0,0.982905982906,0.993865030675,1.0,1.0,1.0,1.0
+Esophagus - Mucosa,Colon - Transverse,0.995281301664,0.939051576417,0.970830706534,1.0,1.0,1.0,1.0
+Esophagus - Mucosa,Esophagus - Gastroesophageal Junction,1.0,0.992322456814,0.997287708187,1.0,1.0,1.0,1.0
+Esophagus - Muscularis,Adipose - Subcutaneous,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Esophagus - Muscularis,Adipose - Visceral (Omentum),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Esophagus - Muscularis,Adrenal Gland,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Esophagus - Muscularis,Artery - Aorta,1.0,0.990697674419,1.0,1.0,1.0,1.0,1.0
+Esophagus - Muscularis,Artery - Coronary,1.0,0.991620111732,1.0,1.0,1.0,1.0,1.0
+Esophagus - Muscularis,Artery - Tibial,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Esophagus - Muscularis,Brain - Cerebellar Hemisphere,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Esophagus - Muscularis,Brain - Cerebellum,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Esophagus - Muscularis,Brain - Cortex,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Esophagus - Muscularis,Brain - Hippocampus,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Esophagus - Muscularis,Brain - Nucleus accumbens (basal ganglia),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Esophagus - Muscularis,Brain - Putamen (basal ganglia),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Esophagus - Muscularis,Breast - Mammary Tissue,1.0,0.998331595412,1.0,1.0,1.0,1.0,1.0
+Esophagus - Muscularis,Cells - EBV-transformed lymphocytes,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Esophagus - Muscularis,Cells - Transformed fibroblasts,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Esophagus - Muscularis,Colon - Sigmoid,1.0,0.999030900135,1.0,1.0,1.0,1.0,1.0
+Esophagus - Muscularis,Colon - Transverse,1.0,0.997333639432,0.998829975663,1.0,1.0,1.0,1.0
+Esophagus - Muscularis,Esophagus - Gastroesophageal Junction,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Esophagus - Muscularis,Esophagus - Mucosa,1.0,0.993747801962,1.0,1.0,1.0,1.0,1.0
+Heart - Atrial Appendage,Adipose - Subcutaneous,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Heart - Atrial Appendage,Adipose - Visceral (Omentum),1.0,0.980582524272,1.0,1.0,1.0,1.0,1.0
+Heart - Atrial Appendage,Adrenal Gland,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Heart - Atrial Appendage,Artery - Aorta,1.0,0.97716311687,1.0,1.0,1.0,1.0,1.0
+Heart - Atrial Appendage,Artery - Coronary,1.0,0.985519125683,1.0,1.0,1.0,1.0,1.0
+Heart - Atrial Appendage,Artery - Tibial,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Heart - Atrial Appendage,Brain - Amygdala,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Heart - Atrial Appendage,Brain - Anterior cingulate cortex (BA24),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Heart - Atrial Appendage,Brain - Caudate (basal ganglia),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Heart - Atrial Appendage,Brain - Cerebellar Hemisphere,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Heart - Atrial Appendage,Brain - Cerebellum,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Heart - Atrial Appendage,Brain - Cortex,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Heart - Atrial Appendage,Brain - Frontal Cortex (BA9),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Heart - Atrial Appendage,Brain - Hippocampus,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Heart - Atrial Appendage,Brain - Hypothalamus,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Heart - Atrial Appendage,Brain - Nucleus accumbens (basal ganglia),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Heart - Atrial Appendage,Brain - Putamen (basal ganglia),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Heart - Atrial Appendage,Brain - Substantia nigra,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Heart - Atrial Appendage,Breast - Mammary Tissue,1.0,0.997503121099,1.0,1.0,1.0,1.0,1.0
+Heart - Atrial Appendage,Cells - EBV-transformed lymphocytes,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Heart - Atrial Appendage,Cells - Transformed fibroblasts,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Heart - Atrial Appendage,Colon - Sigmoid,1.0,0.999155643118,1.0,1.0,1.0,1.0,1.0
+Heart - Atrial Appendage,Colon - Transverse,1.0,0.996845425868,0.999641833811,1.0,1.0,1.0,1.0
+Heart - Atrial Appendage,Esophagus - Gastroesophageal Junction,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Heart - Atrial Appendage,Esophagus - Mucosa,1.0,0.991366906475,1.0,1.0,1.0,1.0,1.0
+Heart - Atrial Appendage,Esophagus - Muscularis,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Heart - Left Ventricle,Adipose - Subcutaneous,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Heart - Left Ventricle,Adipose - Visceral (Omentum),1.0,0.988439306358,1.0,1.0,1.0,1.0,1.0
+Heart - Left Ventricle,Adrenal Gland,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Heart - Left Ventricle,Artery - Aorta,1.0,0.996383363472,1.0,1.0,1.0,1.0,1.0
+Heart - Left Ventricle,Artery - Coronary,1.0,0.997210914701,1.0,1.0,1.0,1.0,1.0
+Heart - Left Ventricle,Artery - Tibial,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Heart - Left Ventricle,Brain - Amygdala,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Heart - Left Ventricle,Brain - Anterior cingulate cortex (BA24),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Heart - Left Ventricle,Brain - Caudate (basal ganglia),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Heart - Left Ventricle,Brain - Cerebellar Hemisphere,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Heart - Left Ventricle,Brain - Cerebellum,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Heart - Left Ventricle,Brain - Cortex,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Heart - Left Ventricle,Brain - Frontal Cortex (BA9),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Heart - Left Ventricle,Brain - Hippocampus,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Heart - Left Ventricle,Brain - Hypothalamus,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Heart - Left Ventricle,Brain - Nucleus accumbens (basal ganglia),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Heart - Left Ventricle,Brain - Putamen (basal ganglia),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Heart - Left Ventricle,Brain - Spinal cord (cervical c-1),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Heart - Left Ventricle,Breast - Mammary Tissue,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Heart - Left Ventricle,Cells - EBV-transformed lymphocytes,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Heart - Left Ventricle,Cells - Transformed fibroblasts,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Heart - Left Ventricle,Colon - Sigmoid,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Heart - Left Ventricle,Colon - Transverse,1.0,0.998361997264,1.0,1.0,1.0,1.0,1.0
+Heart - Left Ventricle,Esophagus - Gastroesophageal Junction,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Heart - Left Ventricle,Esophagus - Mucosa,1.0,0.993877544645,1.0,1.0,1.0,1.0,1.0
+Heart - Left Ventricle,Esophagus - Muscularis,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Heart - Left Ventricle,Heart - Atrial Appendage,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Kidney - Cortex,Adipose - Subcutaneous,1.0,0.983402489627,1.0,1.0,1.0,1.0,1.0
+Kidney - Cortex,Cells - Transformed fibroblasts,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Kidney - Cortex,Esophagus - Mucosa,1.0,0.971717171717,0.991099243436,1.0,1.0,1.0,1.0
+Kidney - Cortex,Esophagus - Muscularis,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Liver,Adipose - Subcutaneous,1.0,0.987664558368,1.0,1.0,1.0,1.0,1.0
+Liver,Adipose - Visceral (Omentum),1.0,0.96816416146,0.980913978495,1.0,1.0,1.0,1.0
+Liver,Adrenal Gland,1.0,0.974426294842,0.993558776167,1.0,1.0,1.0,1.0
+Liver,Artery - Aorta,1.0,0.965317919075,0.988713318284,1.0,1.0,1.0,1.0
+Liver,Artery - Coronary,0.99209486166,0.968,0.98347107438,1.0,1.0,1.0,1.0
+Liver,Artery - Tibial,1.0,0.99716713881,1.0,1.0,1.0,1.0,1.0
+Liver,Brain - Cerebellum,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Liver,Brain - Cortex,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Liver,Brain - Frontal Cortex (BA9),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Liver,Brain - Hippocampus,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Liver,Brain - Nucleus accumbens (basal ganglia),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Liver,Breast - Mammary Tissue,1.0,0.975609756098,0.989743589744,1.0,1.0,1.0,1.0
+Liver,Cells - EBV-transformed lymphocytes,1.0,0.964912280702,0.9875,1.0,1.0,1.0,1.0
+Liver,Cells - Transformed fibroblasts,1.0,0.997638231334,1.0,1.0,1.0,1.0,1.0
+Liver,Colon - Sigmoid,1.0,0.989251348795,1.0,1.0,1.0,1.0,1.0
+Liver,Colon - Transverse,0.997467553023,0.955920041005,0.977917981073,1.0,1.0,1.0,1.0
+Liver,Esophagus - Gastroesophageal Junction,1.0,0.990199530517,1.0,1.0,1.0,1.0,1.0
+Liver,Esophagus - Mucosa,1.0,0.9670781893,0.983319432861,1.0,1.0,1.0,1.0
+Liver,Esophagus - Muscularis,1.0,0.993500493667,1.0,1.0,1.0,1.0,1.0
+Liver,Heart - Atrial Appendage,1.0,0.986448847811,1.0,1.0,1.0,1.0,1.0
+Liver,Heart - Left Ventricle,1.0,0.994315249645,1.0,1.0,1.0,1.0,1.0
+Lung,Adipose - Subcutaneous,0.99921953763,0.986741292658,0.991699604743,1.0,1.0,1.0,1.0
+Lung,Adipose - Visceral (Omentum),0.993527508091,0.968051118211,0.980544747082,1.0,1.0,1.0,1.0
+Lung,Adrenal Gland,1.0,0.987431185654,0.995744603795,1.0,1.0,1.0,1.0
+Lung,Artery - Aorta,0.993197278912,0.969811320755,0.986301369863,1.0,1.0,1.0,1.0
+Lung,Artery - Coronary,0.996487166181,0.963783683921,0.979457820526,1.0,1.0,1.0,1.0
+Lung,Artery - Tibial,1.0,0.994475138122,0.997885835095,1.0,1.0,1.0,1.0
+Lung,Brain - Amygdala,1.0,0.996633597884,0.9992609017,1.0,1.0,1.0,1.0
+Lung,Brain - Anterior cingulate cortex (BA24),1.0,0.99784714747,1.0,1.0,1.0,1.0,1.0
+Lung,Brain - Caudate (basal ganglia),1.0,0.996746438206,1.0,1.0,1.0,1.0,1.0
+Lung,Brain - Cerebellar Hemisphere,1.0,0.999438832772,1.0,1.0,1.0,1.0,1.0
+Lung,Brain - Cerebellum,1.0,0.998483437346,1.0,1.0,1.0,1.0,1.0
+Lung,Brain - Cortex,1.0,0.998474682734,1.0,1.0,1.0,1.0,1.0
+Lung,Brain - Frontal Cortex (BA9),1.0,0.997883597884,1.0,1.0,1.0,1.0,1.0
+Lung,Brain - Hippocampus,1.0,0.997882851094,1.0,1.0,1.0,1.0,1.0
+Lung,Brain - Hypothalamus,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Lung,Brain - Nucleus accumbens (basal ganglia),1.0,0.997803655598,1.0,1.0,1.0,1.0,1.0
+Lung,Brain - Putamen (basal ganglia),1.0,0.998314606742,1.0,1.0,1.0,1.0,1.0
+Lung,Brain - Spinal cord (cervical c-1),1.0,0.998670065209,1.0,1.0,1.0,1.0,1.0
+Lung,Brain - Substantia nigra,1.0,0.997105643994,0.998597475456,1.0,1.0,1.0,1.0
+Lung,Breast - Mammary Tissue,0.997897311374,0.962093918483,0.984530209464,1.0,1.0,1.0,1.0
+Lung,Cells - EBV-transformed lymphocytes,1.0,0.985870639903,0.994164135807,1.0,1.0,1.0,1.0
+Lung,Cells - Transformed fibroblasts,1.0,0.998296422487,1.0,1.0,1.0,1.0,1.0
+Lung,Colon - Sigmoid,0.998956259427,0.987178794192,0.990314148345,1.0,1.0,1.0,1.0
+Lung,Colon - Transverse,0.996807378503,0.944764096663,0.96950334011,1.0,1.0,1.0,1.0
+Lung,Esophagus - Gastroesophageal Junction,1.0,0.993475735272,0.995751459237,1.0,1.0,1.0,1.0
+Lung,Esophagus - Mucosa,0.99440249799,0.944927628203,0.968949378969,1.0,1.0,1.0,1.0
+Lung,Esophagus - Muscularis,1.0,0.993925588459,0.996694214876,1.0,1.0,1.0,1.0
+Lung,Heart - Atrial Appendage,1.0,0.988826815642,0.995798319328,1.0,1.0,1.0,1.0
+Lung,Heart - Left Ventricle,1.0,0.994467496542,1.0,1.0,1.0,1.0,1.0
+Lung,Liver,0.994007092198,0.93525753654,0.962309598818,1.0,1.0,1.0,1.0
+Minor Salivary Gland,Adipose - Subcutaneous,1.0,0.996318067216,0.997782425995,1.0,1.0,1.0,1.0
+Minor Salivary Gland,Adipose - Visceral (Omentum),0.998646362098,0.98953722334,0.993925075937,1.0,1.0,1.0,1.0
+Minor Salivary Gland,Artery - Aorta,0.997801978803,0.984813607599,0.994458343531,1.0,1.0,1.0,1.0
+Minor Salivary Gland,Artery - Tibial,1.0,0.998133167393,0.99876517802,1.0,1.0,1.0,1.0
+Minor Salivary Gland,Breast - Mammary Tissue,0.998510242086,0.988512967782,0.994784876141,1.0,1.0,1.0,1.0
+Minor Salivary Gland,Cells - EBV-transformed lymphocytes,1.0,0.992166269953,0.996132239175,1.0,1.0,1.0,1.0
+Minor Salivary Gland,Cells - Transformed fibroblasts,1.0,0.999465866635,1.0,1.0,1.0,1.0,1.0
+Minor Salivary Gland,Colon - Sigmoid,0.999718031862,0.993394107544,0.994442238984,1.0,1.0,1.0,1.0
+Minor Salivary Gland,Colon - Transverse,0.99528473253,0.915739710425,0.956812147188,1.0,1.0,1.0,1.0
+Minor Salivary Gland,Esophagus - Gastroesophageal Junction,1.0,0.996689837802,0.998821449617,1.0,1.0,1.0,1.0
+Minor Salivary Gland,Esophagus - Mucosa,0.980891581121,0.90775933252,0.957350799009,1.0,1.0,1.0,1.0
+Minor Salivary Gland,Esophagus - Muscularis,1.0,0.997945150238,0.99903242179,1.0,1.0,1.0,1.0
+Minor Salivary Gland,Heart - Left Ventricle,1.0,0.998210020764,0.999128062171,1.0,1.0,1.0,1.0
+Minor Salivary Gland,Lung,0.989370748299,0.888378566458,0.944725311763,1.0,1.0,1.0,1.0
+Muscle - Skeletal,Adipose - Subcutaneous,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Muscle - Skeletal,Adipose - Visceral (Omentum),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Muscle - Skeletal,Adrenal Gland,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Muscle - Skeletal,Artery - Aorta,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Muscle - Skeletal,Artery - Coronary,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Muscle - Skeletal,Artery - Tibial,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Muscle - Skeletal,Brain - Amygdala,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Muscle - Skeletal,Brain - Anterior cingulate cortex (BA24),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Muscle - Skeletal,Brain - Caudate (basal ganglia),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Muscle - Skeletal,Brain - Cerebellar Hemisphere,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Muscle - Skeletal,Brain - Cerebellum,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Muscle - Skeletal,Brain - Cortex,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Muscle - Skeletal,Brain - Frontal Cortex (BA9),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Muscle - Skeletal,Brain - Hippocampus,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Muscle - Skeletal,Brain - Hypothalamus,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Muscle - Skeletal,Brain - Nucleus accumbens (basal ganglia),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Muscle - Skeletal,Brain - Putamen (basal ganglia),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Muscle - Skeletal,Brain - Spinal cord (cervical c-1),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Muscle - Skeletal,Brain - Substantia nigra,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Muscle - Skeletal,Breast - Mammary Tissue,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Muscle - Skeletal,Cells - EBV-transformed lymphocytes,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Muscle - Skeletal,Cells - Transformed fibroblasts,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Muscle - Skeletal,Colon - Sigmoid,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Muscle - Skeletal,Colon - Transverse,1.0,0.998393058011,1.0,1.0,1.0,1.0,1.0
+Muscle - Skeletal,Esophagus - Gastroesophageal Junction,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Muscle - Skeletal,Esophagus - Mucosa,1.0,0.998100664767,1.0,1.0,1.0,1.0,1.0
+Muscle - Skeletal,Esophagus - Muscularis,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Muscle - Skeletal,Heart - Atrial Appendage,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Muscle - Skeletal,Heart - Left Ventricle,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Muscle - Skeletal,Kidney - Cortex,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Muscle - Skeletal,Liver,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Muscle - Skeletal,Lung,1.0,0.993690851735,0.998156682028,1.0,1.0,1.0,1.0
+Muscle - Skeletal,Minor Salivary Gland,1.0,0.999125109361,1.0,1.0,1.0,1.0,1.0
+Nerve - Tibial,Adipose - Subcutaneous,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Nerve - Tibial,Adipose - Visceral (Omentum),1.0,0.982040816326,1.0,1.0,1.0,1.0,1.0
+Nerve - Tibial,Adrenal Gland,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Nerve - Tibial,Artery - Aorta,1.0,0.985130111524,1.0,1.0,1.0,1.0,1.0
+Nerve - Tibial,Artery - Coronary,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Nerve - Tibial,Artery - Tibial,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Nerve - Tibial,Brain - Amygdala,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Nerve - Tibial,Brain - Anterior cingulate cortex (BA24),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Nerve - Tibial,Brain - Caudate (basal ganglia),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Nerve - Tibial,Brain - Cerebellar Hemisphere,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Nerve - Tibial,Brain - Cerebellum,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Nerve - Tibial,Brain - Cortex,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Nerve - Tibial,Brain - Frontal Cortex (BA9),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Nerve - Tibial,Brain - Hippocampus,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Nerve - Tibial,Brain - Hypothalamus,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Nerve - Tibial,Brain - Nucleus accumbens (basal ganglia),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Nerve - Tibial,Brain - Putamen (basal ganglia),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Nerve - Tibial,Brain - Spinal cord (cervical c-1),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Nerve - Tibial,Brain - Substantia nigra,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Nerve - Tibial,Breast - Mammary Tissue,1.0,0.994144168904,0.999186661244,1.0,1.0,1.0,1.0
+Nerve - Tibial,Cells - EBV-transformed lymphocytes,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Nerve - Tibial,Cells - Transformed fibroblasts,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Nerve - Tibial,Colon - Sigmoid,1.0,0.995499759807,1.0,1.0,1.0,1.0,1.0
+Nerve - Tibial,Colon - Transverse,1.0,0.996865203762,0.998748043818,1.0,1.0,1.0,1.0
+Nerve - Tibial,Esophagus - Gastroesophageal Junction,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Nerve - Tibial,Esophagus - Mucosa,1.0,0.993464052288,1.0,1.0,1.0,1.0,1.0
+Nerve - Tibial,Esophagus - Muscularis,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Nerve - Tibial,Heart - Atrial Appendage,1.0,0.971830985915,1.0,1.0,1.0,1.0,1.0
+Nerve - Tibial,Heart - Left Ventricle,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Nerve - Tibial,Liver,1.0,0.990908237062,1.0,1.0,1.0,1.0,1.0
+Nerve - Tibial,Lung,1.0,0.988235294118,0.991769547325,1.0,1.0,1.0,1.0
+Nerve - Tibial,Minor Salivary Gland,1.0,0.995833333333,0.998766954377,1.0,1.0,1.0,1.0
+Nerve - Tibial,Muscle - Skeletal,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Ovary,Adipose - Subcutaneous,1.0,0.992425889686,1.0,1.0,1.0,1.0,1.0
+Ovary,Adipose - Visceral (Omentum),1.0,0.974137931034,0.991836734694,1.0,1.0,1.0,1.0
+Ovary,Adrenal Gland,1.0,0.980392156863,1.0,1.0,1.0,1.0,1.0
+Ovary,Artery - Aorta,1.0,0.97453666398,0.990295066851,1.0,1.0,1.0,1.0
+Ovary,Artery - Coronary,1.0,0.96694214876,1.0,1.0,1.0,1.0,1.0
+Ovary,Artery - Tibial,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Ovary,Breast - Mammary Tissue,1.0,0.990027536525,0.996625133761,1.0,1.0,1.0,1.0
+Ovary,Cells - EBV-transformed lymphocytes,1.0,0.976600985222,1.0,1.0,1.0,1.0,1.0
+Ovary,Cells - Transformed fibroblasts,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Ovary,Colon - Sigmoid,1.0,0.987793933597,1.0,1.0,1.0,1.0,1.0
+Ovary,Colon - Transverse,1.0,0.992334227673,0.996368352789,1.0,1.0,1.0,1.0
+Ovary,Esophagus - Gastroesophageal Junction,1.0,0.995244505121,1.0,1.0,1.0,1.0,1.0
+Ovary,Esophagus - Mucosa,1.0,0.978159126365,0.992740471869,1.0,1.0,1.0,1.0
+Ovary,Esophagus - Muscularis,1.0,0.985281385281,1.0,1.0,1.0,1.0,1.0
+Ovary,Heart - Atrial Appendage,1.0,0.996,1.0,1.0,1.0,1.0,1.0
+Ovary,Heart - Left Ventricle,1.0,0.991071428571,1.0,1.0,1.0,1.0,1.0
+Ovary,Liver,1.0,0.962025316456,0.990825688073,1.0,1.0,1.0,1.0
+Ovary,Lung,1.0,0.985983102918,0.990356910493,1.0,1.0,1.0,1.0
+Ovary,Muscle - Skeletal,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Ovary,Nerve - Tibial,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Pancreas,Adipose - Subcutaneous,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Pancreas,Adipose - Visceral (Omentum),1.0,0.979711220911,1.0,1.0,1.0,1.0,1.0
+Pancreas,Adrenal Gland,1.0,0.993472870172,1.0,1.0,1.0,1.0,1.0
+Pancreas,Artery - Aorta,1.0,0.98637879911,1.0,1.0,1.0,1.0,1.0
+Pancreas,Artery - Coronary,1.0,0.991313789359,1.0,1.0,1.0,1.0,1.0
+Pancreas,Artery - Tibial,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Pancreas,Breast - Mammary Tissue,1.0,0.993901533894,1.0,1.0,1.0,1.0,1.0
+Pancreas,Cells - EBV-transformed lymphocytes,1.0,0.985696040869,1.0,1.0,1.0,1.0,1.0
+Pancreas,Cells - Transformed fibroblasts,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Pancreas,Colon - Sigmoid,1.0,0.988811166925,1.0,1.0,1.0,1.0,1.0
+Pancreas,Colon - Transverse,1.0,0.99394439613,0.996405690407,1.0,1.0,1.0,1.0
+Pancreas,Esophagus - Gastroesophageal Junction,1.0,0.994093325458,1.0,1.0,1.0,1.0,1.0
+Pancreas,Esophagus - Mucosa,1.0,0.987035356591,0.993588744952,1.0,1.0,1.0,1.0
+Pancreas,Esophagus - Muscularis,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Pancreas,Heart - Atrial Appendage,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Pancreas,Heart - Left Ventricle,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Pancreas,Liver,1.0,0.982905982906,0.993710691824,1.0,1.0,1.0,1.0
+Pancreas,Lung,1.0,0.985347985348,0.992063492063,1.0,1.0,1.0,1.0
+Pancreas,Minor Salivary Gland,0.99898657208,0.994013967409,0.995687796464,1.0,1.0,1.0,1.0
+Pancreas,Muscle - Skeletal,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Pancreas,Nerve - Tibial,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Pancreas,Ovary,1.0,0.989265884552,1.0,1.0,1.0,1.0,1.0
+Pituitary,Adipose - Subcutaneous,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Pituitary,Adipose - Visceral (Omentum),1.0,0.961276127613,1.0,1.0,1.0,1.0,1.0
+Pituitary,Artery - Aorta,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Pituitary,Artery - Tibial,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Pituitary,Brain - Amygdala,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Pituitary,Brain - Anterior cingulate cortex (BA24),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Pituitary,Brain - Caudate (basal ganglia),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Pituitary,Brain - Cerebellar Hemisphere,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Pituitary,Brain - Cerebellum,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Pituitary,Brain - Cortex,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Pituitary,Brain - Frontal Cortex (BA9),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Pituitary,Brain - Hippocampus,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Pituitary,Brain - Hypothalamus,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Pituitary,Brain - Nucleus accumbens (basal ganglia),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Pituitary,Brain - Putamen (basal ganglia),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Pituitary,Brain - Spinal cord (cervical c-1),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Pituitary,Brain - Substantia nigra,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Pituitary,Breast - Mammary Tissue,1.0,0.980173482032,0.997113997114,1.0,1.0,1.0,1.0
+Pituitary,Cells - Transformed fibroblasts,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Pituitary,Colon - Sigmoid,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Pituitary,Esophagus - Mucosa,1.0,0.991263710062,1.0,1.0,1.0,1.0,1.0
+Pituitary,Esophagus - Muscularis,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Pituitary,Heart - Atrial Appendage,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Pituitary,Heart - Left Ventricle,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Pituitary,Lung,1.0,0.981601319629,0.995527488818,1.0,1.0,1.0,1.0
+Pituitary,Muscle - Skeletal,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Pituitary,Nerve - Tibial,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Prostate,Adipose - Subcutaneous,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Prostate,Adipose - Visceral (Omentum),1.0,0.975975975976,1.0,1.0,1.0,1.0,1.0
+Prostate,Adrenal Gland,1.0,0.984449817196,1.0,1.0,1.0,1.0,1.0
+Prostate,Artery - Aorta,1.0,0.97667638484,0.980769230769,1.0,1.0,1.0,1.0
+Prostate,Artery - Coronary,1.0,0.973154362416,1.0,1.0,1.0,1.0,1.0
+Prostate,Artery - Tibial,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Prostate,Breast - Mammary Tissue,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Prostate,Cells - EBV-transformed lymphocytes,1.0,0.981637466308,1.0,1.0,1.0,1.0,1.0
+Prostate,Cells - Transformed fibroblasts,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Prostate,Colon - Sigmoid,1.0,0.9909771751,0.999427371636,1.0,1.0,1.0,1.0
+Prostate,Colon - Transverse,1.0,0.986656464432,0.99518725088,1.0,1.0,1.0,1.0
+Prostate,Esophagus - Gastroesophageal Junction,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Prostate,Esophagus - Mucosa,1.0,0.981149858624,0.990384615385,1.0,1.0,1.0,1.0
+Prostate,Esophagus - Muscularis,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Prostate,Heart - Atrial Appendage,1.0,0.987804878049,1.0,1.0,1.0,1.0,1.0
+Prostate,Heart - Left Ventricle,1.0,0.9970856102,1.0,1.0,1.0,1.0,1.0
+Prostate,Liver,1.0,0.983098591549,0.984496124031,1.0,1.0,1.0,1.0
+Prostate,Lung,0.99808915105,0.971383127825,0.983498062016,1.0,1.0,1.0,1.0
+Prostate,Muscle - Skeletal,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Prostate,Nerve - Tibial,1.0,0.987951807229,1.0,1.0,1.0,1.0,1.0
+Prostate,Pancreas,1.0,0.985239651416,1.0,1.0,1.0,1.0,1.0
+Skin - Not Sun Exposed (Suprapubic),Adipose - Subcutaneous,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Skin - Not Sun Exposed (Suprapubic),Adipose - Visceral (Omentum),1.0,0.990706589484,1.0,1.0,1.0,1.0,1.0
+Skin - Not Sun Exposed (Suprapubic),Adrenal Gland,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Skin - Not Sun Exposed (Suprapubic),Artery - Aorta,1.0,0.995072786997,1.0,1.0,1.0,1.0,1.0
+Skin - Not Sun Exposed (Suprapubic),Artery - Coronary,1.0,0.992779783394,1.0,1.0,1.0,1.0,1.0
+Skin - Not Sun Exposed (Suprapubic),Artery - Tibial,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Skin - Not Sun Exposed (Suprapubic),Brain - Amygdala,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Skin - Not Sun Exposed (Suprapubic),Brain - Anterior cingulate cortex (BA24),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Skin - Not Sun Exposed (Suprapubic),Brain - Caudate (basal ganglia),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Skin - Not Sun Exposed (Suprapubic),Brain - Cerebellar Hemisphere,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Skin - Not Sun Exposed (Suprapubic),Brain - Cerebellum,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Skin - Not Sun Exposed (Suprapubic),Brain - Cortex,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Skin - Not Sun Exposed (Suprapubic),Brain - Frontal Cortex (BA9),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Skin - Not Sun Exposed (Suprapubic),Brain - Hippocampus,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Skin - Not Sun Exposed (Suprapubic),Brain - Hypothalamus,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Skin - Not Sun Exposed (Suprapubic),Brain - Nucleus accumbens (basal ganglia),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Skin - Not Sun Exposed (Suprapubic),Brain - Putamen (basal ganglia),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Skin - Not Sun Exposed (Suprapubic),Brain - Spinal cord (cervical c-1),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Skin - Not Sun Exposed (Suprapubic),Breast - Mammary Tissue,1.0,0.998232765847,1.0,1.0,1.0,1.0,1.0
+Skin - Not Sun Exposed (Suprapubic),Cells - EBV-transformed lymphocytes,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Skin - Not Sun Exposed (Suprapubic),Cells - Transformed fibroblasts,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Skin - Not Sun Exposed (Suprapubic),Colon - Sigmoid,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Skin - Not Sun Exposed (Suprapubic),Colon - Transverse,1.0,0.997132616487,0.998954703833,1.0,1.0,1.0,1.0
+Skin - Not Sun Exposed (Suprapubic),Esophagus - Gastroesophageal Junction,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Skin - Not Sun Exposed (Suprapubic),Esophagus - Mucosa,1.0,0.992598374518,1.0,1.0,1.0,1.0,1.0
+Skin - Not Sun Exposed (Suprapubic),Esophagus - Muscularis,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Skin - Not Sun Exposed (Suprapubic),Heart - Atrial Appendage,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Skin - Not Sun Exposed (Suprapubic),Heart - Left Ventricle,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Skin - Not Sun Exposed (Suprapubic),Liver,1.0,0.990080912459,1.0,1.0,1.0,1.0,1.0
+Skin - Not Sun Exposed (Suprapubic),Lung,1.0,0.991499696418,0.996007984032,1.0,1.0,1.0,1.0
+Skin - Not Sun Exposed (Suprapubic),Minor Salivary Gland,0.999161249738,0.994367220859,0.996152613017,1.0,1.0,1.0,1.0
+Skin - Not Sun Exposed (Suprapubic),Muscle - Skeletal,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Skin - Not Sun Exposed (Suprapubic),Nerve - Tibial,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Skin - Not Sun Exposed (Suprapubic),Ovary,1.0,0.983193277311,1.0,1.0,1.0,1.0,1.0
+Skin - Not Sun Exposed (Suprapubic),Pancreas,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Skin - Not Sun Exposed (Suprapubic),Pituitary,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Skin - Not Sun Exposed (Suprapubic),Prostate,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Skin - Sun Exposed (Lower leg),Adipose - Subcutaneous,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Skin - Sun Exposed (Lower leg),Adipose - Visceral (Omentum),1.0,0.996992481203,1.0,1.0,1.0,1.0,1.0
+Skin - Sun Exposed (Lower leg),Adrenal Gland,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Skin - Sun Exposed (Lower leg),Artery - Aorta,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Skin - Sun Exposed (Lower leg),Artery - Coronary,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Skin - Sun Exposed (Lower leg),Artery - Tibial,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Skin - Sun Exposed (Lower leg),Brain - Amygdala,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Skin - Sun Exposed (Lower leg),Brain - Anterior cingulate cortex (BA24),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Skin - Sun Exposed (Lower leg),Brain - Caudate (basal ganglia),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Skin - Sun Exposed (Lower leg),Brain - Cerebellar Hemisphere,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Skin - Sun Exposed (Lower leg),Brain - Cerebellum,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Skin - Sun Exposed (Lower leg),Brain - Cortex,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Skin - Sun Exposed (Lower leg),Brain - Frontal Cortex (BA9),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Skin - Sun Exposed (Lower leg),Brain - Hippocampus,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Skin - Sun Exposed (Lower leg),Brain - Hypothalamus,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Skin - Sun Exposed (Lower leg),Brain - Nucleus accumbens (basal ganglia),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Skin - Sun Exposed (Lower leg),Brain - Putamen (basal ganglia),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Skin - Sun Exposed (Lower leg),Brain - Spinal cord (cervical c-1),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Skin - Sun Exposed (Lower leg),Brain - Substantia nigra,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Skin - Sun Exposed (Lower leg),Breast - Mammary Tissue,1.0,0.998694799477,1.0,1.0,1.0,1.0,1.0
+Skin - Sun Exposed (Lower leg),Cells - EBV-transformed lymphocytes,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Skin - Sun Exposed (Lower leg),Cells - Transformed fibroblasts,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Skin - Sun Exposed (Lower leg),Colon - Sigmoid,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Skin - Sun Exposed (Lower leg),Colon - Transverse,1.0,0.998497164202,1.0,1.0,1.0,1.0,1.0
+Skin - Sun Exposed (Lower leg),Esophagus - Gastroesophageal Junction,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Skin - Sun Exposed (Lower leg),Esophagus - Mucosa,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Skin - Sun Exposed (Lower leg),Esophagus - Muscularis,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Skin - Sun Exposed (Lower leg),Heart - Atrial Appendage,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Skin - Sun Exposed (Lower leg),Heart - Left Ventricle,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Skin - Sun Exposed (Lower leg),Kidney - Cortex,1.0,0.996086105675,1.0,1.0,1.0,1.0,1.0
+Skin - Sun Exposed (Lower leg),Liver,1.0,0.995460322302,1.0,1.0,1.0,1.0,1.0
+Skin - Sun Exposed (Lower leg),Lung,1.0,0.995623632385,0.999012345679,1.0,1.0,1.0,1.0
+Skin - Sun Exposed (Lower leg),Minor Salivary Gland,0.999905864633,0.998350296406,0.998576711202,1.0,1.0,1.0,1.0
+Skin - Sun Exposed (Lower leg),Muscle - Skeletal,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Skin - Sun Exposed (Lower leg),Nerve - Tibial,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Skin - Sun Exposed (Lower leg),Ovary,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Skin - Sun Exposed (Lower leg),Pancreas,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Skin - Sun Exposed (Lower leg),Pituitary,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Skin - Sun Exposed (Lower leg),Prostate,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Skin - Sun Exposed (Lower leg),Skin - Not Sun Exposed (Suprapubic),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Small Intestine - Terminal Ileum,Adipose - Subcutaneous,1.0,0.996466940987,0.998947613962,1.0,1.0,1.0,1.0
+Small Intestine - Terminal Ileum,Adipose - Visceral (Omentum),0.999010390896,0.986855077226,0.994849785408,1.0,1.0,1.0,1.0
+Small Intestine - Terminal Ileum,Adrenal Gland,1.0,0.995372155804,0.996957403651,1.0,1.0,1.0,1.0
+Small Intestine - Terminal Ileum,Artery - Aorta,0.999112333116,0.974590849374,0.987412339453,1.0,1.0,1.0,1.0
+Small Intestine - Terminal Ileum,Artery - Coronary,0.998665777185,0.984712077459,0.994619316653,1.0,1.0,1.0,1.0
+Small Intestine - Terminal Ileum,Artery - Tibial,1.0,0.997298853369,1.0,1.0,1.0,1.0,1.0
+Small Intestine - Terminal Ileum,Breast - Mammary Tissue,1.0,0.986577181208,0.992992291521,1.0,1.0,1.0,1.0
+Small Intestine - Terminal Ileum,Cells - EBV-transformed lymphocytes,1.0,0.991808364861,0.996583885046,1.0,1.0,1.0,1.0
+Small Intestine - Terminal Ileum,Cells - Transformed fibroblasts,1.0,0.999002555393,1.0,1.0,1.0,1.0,1.0
+Small Intestine - Terminal Ileum,Colon - Sigmoid,1.0,0.989955357143,0.994540491356,1.0,1.0,1.0,1.0
+Small Intestine - Terminal Ileum,Colon - Transverse,0.984144960362,0.887572690071,0.944587628866,1.0,1.0,1.0,1.0
+Small Intestine - Terminal Ileum,Esophagus - Gastroesophageal Junction,1.0,0.997205923442,0.99922420481,1.0,1.0,1.0,1.0
+Small Intestine - Terminal Ileum,Esophagus - Mucosa,0.994941831057,0.931055709449,0.963926465487,1.0,1.0,1.0,1.0
+Small Intestine - Terminal Ileum,Esophagus - Muscularis,1.0,0.99746835443,0.99836867863,1.0,1.0,1.0,1.0
+Small Intestine - Terminal Ileum,Heart - Atrial Appendage,1.0,0.995201279659,0.999028182702,1.0,1.0,1.0,1.0
+Small Intestine - Terminal Ileum,Heart - Left Ventricle,1.0,0.99592932497,1.0,1.0,1.0,1.0,1.0
+Small Intestine - Terminal Ileum,Lung,0.996963063381,0.944372157495,0.973649613102,1.0,1.0,1.0,1.0
+Small Intestine - Terminal Ileum,Muscle - Skeletal,1.0,0.998680690677,1.0,1.0,1.0,1.0,1.0
+Small Intestine - Terminal Ileum,Nerve - Tibial,1.0,0.996274146906,0.998086292901,1.0,1.0,1.0,1.0
+Small Intestine - Terminal Ileum,Pancreas,1.0,0.990994111534,0.997105643994,1.0,1.0,1.0,1.0
+Small Intestine - Terminal Ileum,Prostate,1.0,0.986263156382,0.995969350416,1.0,1.0,1.0,1.0
+Small Intestine - Terminal Ileum,Skin - Not Sun Exposed (Suprapubic),1.0,0.995632698114,0.999006455327,1.0,1.0,1.0,1.0
+Small Intestine - Terminal Ileum,Skin - Sun Exposed (Lower leg),1.0,0.997850151539,1.0,1.0,1.0,1.0,1.0
+Spleen,Adipose - Subcutaneous,0.999305475171,0.995559080095,0.997186620819,1.0,1.0,1.0,1.0
+Spleen,Adipose - Visceral (Omentum),0.99723183391,0.988698324576,0.992961876833,1.0,0.993730407524,1.0,1.0
+Spleen,Adrenal Gland,0.997774480712,0.994610485056,0.996303142329,1.0,1.0,1.0,1.0
+Spleen,Artery - Aorta,0.997845902436,0.989607173396,0.99319589994,1.0,0.991657872255,1.0,1.0
+Spleen,Artery - Coronary,0.995527728086,0.985458070771,0.991379310345,1.0,1.0,1.0,1.0
+Spleen,Artery - Tibial,1.0,0.998080139914,0.999011482553,1.0,1.0,1.0,1.0
+Spleen,Breast - Mammary Tissue,0.997877467027,0.993330892672,0.995699955792,1.0,1.0,1.0,1.0
+Spleen,Cells - EBV-transformed lymphocytes,1.0,0.993520249221,0.996181384248,1.0,1.0,1.0,1.0
+Spleen,Cells - Transformed fibroblasts,1.0,0.998956340233,0.999721874565,1.0,1.0,1.0,1.0
+Spleen,Colon - Sigmoid,0.999300950947,0.996490691561,0.997471693515,1.0,1.0,1.0,1.0
+Spleen,Colon - Transverse,0.99293544458,0.850919412563,0.928645833333,1.0,1.0,1.0,1.0
+Spleen,Esophagus - Gastroesophageal Junction,1.0,0.996960678782,0.998750780762,1.0,1.0,1.0,1.0
+Spleen,Esophagus - Mucosa,0.992522542336,0.942694766753,0.967509025271,1.0,1.0,1.0,1.0
+Spleen,Esophagus - Muscularis,0.999653379549,0.997296485431,0.99873677562,1.0,1.0,1.0,1.0
+Spleen,Heart - Atrial Appendage,0.999635302699,0.99670612455,0.998057174577,1.0,1.0,1.0,1.0
+Spleen,Heart - Left Ventricle,0.999826599619,0.997680775284,0.998900091659,1.0,1.0,1.0,1.0
+Spleen,Liver,0.984389976722,0.922212618842,0.936711711712,1.0,1.0,1.0,1.0
+Spleen,Lung,0.978288997364,0.896250247776,0.930375729259,1.0,0.976450276243,1.0,1.0
+Spleen,Muscle - Skeletal,1.0,0.998386919478,0.999283430413,1.0,1.0,1.0,1.0
+Spleen,Nerve - Tibial,0.99953390818,0.996141065495,0.998160355665,1.0,1.0,1.0,1.0
+Spleen,Ovary,0.998541742618,0.989491552825,0.995053956835,1.0,1.0,1.0,1.0
+Spleen,Pancreas,0.999449187552,0.994908512331,0.997291807718,1.0,1.0,1.0,1.0
+Spleen,Prostate,0.998712584487,0.98661834402,0.993831391364,1.0,0.980198019802,1.0,1.0
+Spleen,Skin - Not Sun Exposed (Suprapubic),0.999428326426,0.99689515166,0.998084291188,1.0,1.0,1.0,1.0
+Spleen,Skin - Sun Exposed (Lower leg),1.0,0.998659731827,0.999274462501,1.0,1.0,1.0,1.0
+Spleen,Small Intestine - Terminal Ileum,0.986594132504,0.86432160804,0.926904094971,0.984,0.988304093567,1.0,1.0
+Stomach,Adipose - Subcutaneous,1.0,0.995145631068,0.99795221843,1.0,1.0,1.0,1.0
+Stomach,Adipose - Visceral (Omentum),1.0,0.976996805112,0.991902834008,1.0,1.0,1.0,1.0
+Stomach,Adrenal Gland,1.0,0.989994441356,0.994694960212,1.0,1.0,1.0,1.0
+Stomach,Artery - Aorta,0.998132586368,0.979130434783,0.991130820399,1.0,1.0,1.0,1.0
+Stomach,Artery - Coronary,1.0,0.974338395686,0.99135769091,1.0,1.0,1.0,1.0
+Stomach,Artery - Tibial,1.0,0.998179980938,1.0,1.0,1.0,1.0,1.0
+Stomach,Breast - Mammary Tissue,0.998456190847,0.976977340404,0.991394045817,1.0,1.0,1.0,1.0
+Stomach,Cells - EBV-transformed lymphocytes,1.0,0.987596328022,0.995254233471,1.0,1.0,1.0,1.0
+Stomach,Cells - Transformed fibroblasts,1.0,0.998859797092,1.0,1.0,1.0,1.0,1.0
+Stomach,Colon - Sigmoid,0.998597475456,0.98937784522,0.994436717663,1.0,1.0,1.0,1.0
+Stomach,Colon - Transverse,0.993017308428,0.924600746765,0.95964396447,1.0,1.0,1.0,1.0
+Stomach,Esophagus - Gastroesophageal Junction,1.0,0.994347273016,0.998190564866,1.0,1.0,1.0,1.0
+Stomach,Esophagus - Mucosa,0.992798353909,0.926004980434,0.964904862579,1.0,1.0,1.0,1.0
+Stomach,Esophagus - Muscularis,1.0,0.99530563339,0.99887688359,1.0,1.0,1.0,1.0
+Stomach,Heart - Atrial Appendage,1.0,0.99221609223,0.997767948939,1.0,1.0,1.0,1.0
+Stomach,Heart - Left Ventricle,1.0,0.996569468268,0.999572100984,1.0,1.0,1.0,1.0
+Stomach,Liver,0.995767195767,0.94480620155,0.971334068357,1.0,1.0,1.0,1.0
+Stomach,Lung,0.985059848715,0.902530521006,0.938930697518,1.0,1.0,1.0,1.0
+Stomach,Muscle - Skeletal,1.0,0.998034076016,1.0,1.0,1.0,1.0,1.0
+Stomach,Nerve - Tibial,1.0,0.993581593198,0.997850852761,1.0,1.0,1.0,1.0
+Stomach,Ovary,1.0,0.982895327661,0.995698184443,1.0,1.0,1.0,1.0
+Stomach,Pancreas,1.0,0.985401459854,0.993179880648,1.0,1.0,1.0,1.0
+Stomach,Prostate,1.0,0.979191351743,0.988092585653,1.0,1.0,1.0,1.0
+Stomach,Skin - Not Sun Exposed (Suprapubic),1.0,0.996112730807,1.0,1.0,1.0,1.0,1.0
+Stomach,Skin - Sun Exposed (Lower leg),1.0,0.998660415271,1.0,1.0,1.0,1.0,1.0
+Stomach,Small Intestine - Terminal Ileum,0.993936331481,0.898337292162,0.954369682908,1.0,1.0,1.0,1.0
+Stomach,Spleen,0.991904488956,0.905345698181,0.94044019894,1.0,1.0,1.0,1.0
+Testis,Adipose - Subcutaneous,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Testis,Adipose - Visceral (Omentum),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Testis,Adrenal Gland,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Testis,Artery - Aorta,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Testis,Artery - Coronary,1.0,0.994350282486,1.0,1.0,1.0,1.0,1.0
+Testis,Artery - Tibial,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Testis,Brain - Caudate (basal ganglia),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Testis,Brain - Cerebellar Hemisphere,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Testis,Brain - Cerebellum,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Testis,Brain - Cortex,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Testis,Brain - Hippocampus,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Testis,Brain - Hypothalamus,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Testis,Brain - Nucleus accumbens (basal ganglia),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Testis,Brain - Putamen (basal ganglia),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Testis,Breast - Mammary Tissue,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Testis,Cells - EBV-transformed lymphocytes,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Testis,Cells - Transformed fibroblasts,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Testis,Colon - Sigmoid,1.0,0.999718389186,1.0,1.0,1.0,1.0,1.0
+Testis,Colon - Transverse,1.0,0.998053527981,0.999156236816,1.0,1.0,1.0,1.0
+Testis,Esophagus - Gastroesophageal Junction,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Testis,Esophagus - Mucosa,1.0,0.996903772655,1.0,1.0,1.0,1.0,1.0
+Testis,Esophagus - Muscularis,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Testis,Heart - Atrial Appendage,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Testis,Heart - Left Ventricle,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Testis,Kidney - Cortex,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Testis,Liver,1.0,0.996415770609,1.0,1.0,1.0,1.0,1.0
+Testis,Lung,1.0,0.994986476542,0.99863752568,1.0,1.0,1.0,1.0
+Testis,Minor Salivary Gland,1.0,0.998670654703,0.999617004979,1.0,1.0,1.0,1.0
+Testis,Muscle - Skeletal,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Testis,Nerve - Tibial,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Testis,Pancreas,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Testis,Pituitary,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Testis,Prostate,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Testis,Skin - Not Sun Exposed (Suprapubic),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Testis,Skin - Sun Exposed (Lower leg),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Testis,Small Intestine - Terminal Ileum,1.0,0.998082385218,0.99927767307,1.0,1.0,1.0,1.0
+Testis,Spleen,1.0,0.998472189299,0.999088839829,1.0,1.0,1.0,1.0
+Testis,Stomach,1.0,0.996673206812,0.999571459181,1.0,1.0,1.0,1.0
+Thyroid,Adipose - Subcutaneous,1.0,0.998606965174,1.0,1.0,1.0,1.0,1.0
+Thyroid,Adipose - Visceral (Omentum),1.0,0.979002624672,0.995850622407,1.0,1.0,1.0,1.0
+Thyroid,Adrenal Gland,1.0,0.995479576092,1.0,1.0,1.0,1.0,1.0
+Thyroid,Artery - Aorta,1.0,0.987380573249,1.0,1.0,1.0,1.0,1.0
+Thyroid,Artery - Coronary,1.0,0.987240829346,1.0,1.0,1.0,1.0,1.0
+Thyroid,Artery - Tibial,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Thyroid,Brain - Amygdala,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Thyroid,Brain - Anterior cingulate cortex (BA24),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Thyroid,Brain - Caudate (basal ganglia),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Thyroid,Brain - Cerebellar Hemisphere,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Thyroid,Brain - Cerebellum,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Thyroid,Brain - Cortex,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Thyroid,Brain - Frontal Cortex (BA9),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Thyroid,Brain - Hippocampus,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Thyroid,Brain - Hypothalamus,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Thyroid,Brain - Nucleus accumbens (basal ganglia),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Thyroid,Brain - Putamen (basal ganglia),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Thyroid,Brain - Spinal cord (cervical c-1),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Thyroid,Brain - Substantia nigra,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Thyroid,Breast - Mammary Tissue,1.0,0.988069414317,0.994475138122,1.0,1.0,1.0,1.0
+Thyroid,Cells - EBV-transformed lymphocytes,1.0,0.986023220725,1.0,1.0,1.0,1.0,1.0
+Thyroid,Cells - Transformed fibroblasts,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Thyroid,Colon - Sigmoid,1.0,0.997003184117,0.999582855355,1.0,1.0,1.0,1.0
+Thyroid,Colon - Transverse,1.0,0.9889763753,0.997294971809,1.0,1.0,1.0,1.0
+Thyroid,Esophagus - Gastroesophageal Junction,1.0,0.999203345947,1.0,1.0,1.0,1.0,1.0
+Thyroid,Esophagus - Mucosa,1.0,0.980131578948,0.994623655914,1.0,1.0,1.0,1.0
+Thyroid,Esophagus - Muscularis,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Thyroid,Heart - Atrial Appendage,1.0,0.989637857578,1.0,1.0,1.0,1.0,1.0
+Thyroid,Heart - Left Ventricle,1.0,0.998968008256,1.0,1.0,1.0,1.0,1.0
+Thyroid,Liver,1.0,0.98050310076,0.997046517351,1.0,1.0,1.0,1.0
+Thyroid,Lung,0.998011928429,0.975806451613,0.986463620981,1.0,1.0,1.0,1.0
+Thyroid,Minor Salivary Gland,0.999147969327,0.980307207562,0.992659325993,1.0,1.0,1.0,1.0
+Thyroid,Muscle - Skeletal,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Thyroid,Nerve - Tibial,1.0,0.988321788387,1.0,1.0,1.0,1.0,1.0
+Thyroid,Ovary,1.0,0.984615384615,1.0,1.0,1.0,1.0,1.0
+Thyroid,Pancreas,1.0,0.994758102021,1.0,1.0,1.0,1.0,1.0
+Thyroid,Pituitary,1.0,0.996680497925,1.0,1.0,1.0,1.0,1.0
+Thyroid,Prostate,1.0,0.988146810791,1.0,1.0,1.0,1.0,1.0
+Thyroid,Skin - Not Sun Exposed (Suprapubic),1.0,0.996027016289,1.0,1.0,1.0,1.0,1.0
+Thyroid,Skin - Sun Exposed (Lower leg),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Thyroid,Small Intestine - Terminal Ileum,0.999765478424,0.987260887208,0.994255904798,1.0,1.0,1.0,1.0
+Thyroid,Spleen,0.997202992674,0.98228848206,0.990009114977,1.0,1.0,1.0,1.0
+Thyroid,Stomach,1.0,0.98943467751,0.996212066863,1.0,1.0,1.0,1.0
+Thyroid,Testis,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Uterus,Adipose - Subcutaneous,1.0,0.989951967413,1.0,1.0,1.0,1.0,1.0
+Uterus,Adrenal Gland,1.0,0.97955613577,1.0,1.0,1.0,1.0,1.0
+Uterus,Artery - Aorta,1.0,0.981446845103,1.0,1.0,1.0,1.0,1.0
+Uterus,Artery - Coronary,1.0,0.988888888889,1.0,1.0,1.0,1.0,1.0
+Uterus,Artery - Tibial,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Uterus,Brain - Cortex,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Uterus,Breast - Mammary Tissue,1.0,0.986821086262,0.992753623188,1.0,1.0,1.0,1.0
+Uterus,Cells - EBV-transformed lymphocytes,1.0,1.0,0.988950276243,1.0,1.0,1.0,1.0
+Uterus,Cells - Transformed fibroblasts,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Uterus,Colon - Sigmoid,1.0,1.0,0.998202247191,1.0,1.0,1.0,1.0
+Uterus,Colon - Transverse,1.0,0.99362432565,0.995808885163,1.0,1.0,1.0,1.0
+Uterus,Esophagus - Gastroesophageal Junction,1.0,0.994186046512,1.0,1.0,1.0,1.0,1.0
+Uterus,Esophagus - Mucosa,1.0,0.984848484848,0.990407673861,1.0,1.0,1.0,1.0
+Uterus,Esophagus - Muscularis,1.0,0.992557304612,1.0,1.0,1.0,1.0,1.0
+Uterus,Heart - Left Ventricle,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Uterus,Liver,1.0,0.972161353409,0.986546814671,1.0,1.0,1.0,1.0
+Uterus,Lung,0.999118541948,0.984887227003,0.994203553146,1.0,1.0,1.0,1.0
+Uterus,Muscle - Skeletal,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Uterus,Nerve - Tibial,1.0,0.986535519126,1.0,1.0,1.0,1.0,1.0
+Uterus,Ovary,1.0,0.973687840541,1.0,1.0,1.0,1.0,1.0
+Uterus,Pancreas,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Uterus,Skin - Not Sun Exposed (Suprapubic),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Uterus,Skin - Sun Exposed (Lower leg),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Uterus,Spleen,0.998904309715,0.993434550677,0.99533632287,1.0,0.98615916955,1.0,1.0
+Uterus,Stomach,1.0,0.983158630329,0.994101743715,1.0,1.0,1.0,1.0
+Uterus,Thyroid,1.0,0.994303656366,0.998434281863,1.0,1.0,1.0,1.0
+Vagina,Adipose - Subcutaneous,1.0,0.991978026909,1.0,1.0,1.0,1.0,1.0
+Vagina,Adipose - Visceral (Omentum),1.0,0.976798143852,0.990867579909,1.0,1.0,1.0,1.0
+Vagina,Adrenal Gland,1.0,0.984690333859,0.998735777497,1.0,1.0,1.0,1.0
+Vagina,Artery - Aorta,1.0,0.983227104998,0.99457111835,1.0,1.0,1.0,1.0
+Vagina,Artery - Coronary,1.0,0.974842767296,0.98835978836,1.0,1.0,1.0,1.0
+Vagina,Artery - Tibial,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Vagina,Breast - Mammary Tissue,1.0,0.978538017659,0.992800097976,1.0,1.0,1.0,1.0
+Vagina,Cells - EBV-transformed lymphocytes,1.0,0.984944315694,1.0,1.0,1.0,1.0,1.0
+Vagina,Cells - Transformed fibroblasts,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Vagina,Colon - Sigmoid,1.0,0.998716302952,1.0,1.0,1.0,1.0,1.0
+Vagina,Colon - Transverse,0.999740259741,0.990100848773,0.995546508866,1.0,1.0,1.0,1.0
+Vagina,Esophagus - Gastroesophageal Junction,1.0,0.998778998779,1.0,1.0,1.0,1.0,1.0
+Vagina,Esophagus - Mucosa,1.0,0.971133355121,0.988092891159,1.0,1.0,1.0,1.0
+Vagina,Esophagus - Muscularis,1.0,0.987933634992,1.0,1.0,1.0,1.0,1.0
+Vagina,Heart - Atrial Appendage,1.0,0.996953213447,1.0,1.0,1.0,1.0,1.0
+Vagina,Heart - Left Ventricle,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Vagina,Liver,1.0,0.962386292193,0.983145535461,1.0,1.0,1.0,1.0
+Vagina,Lung,0.997951734817,0.974972822732,0.988334813687,1.0,1.0,1.0,1.0
+Vagina,Muscle - Skeletal,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Vagina,Nerve - Tibial,1.0,0.987593806403,1.0,1.0,1.0,1.0,1.0
+Vagina,Ovary,1.0,0.977894479726,1.0,1.0,1.0,1.0,1.0
+Vagina,Pancreas,1.0,0.98275862069,1.0,1.0,1.0,1.0,1.0
+Vagina,Skin - Not Sun Exposed (Suprapubic),1.0,0.99377011877,1.0,1.0,1.0,1.0,1.0
+Vagina,Skin - Sun Exposed (Lower leg),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Vagina,Spleen,0.998418028534,0.99022284336,0.993166036482,1.0,0.980214424951,1.0,1.0
+Vagina,Stomach,1.0,0.96862745098,0.985890652557,1.0,1.0,1.0,1.0
+Vagina,Thyroid,1.0,0.986548680423,1.0,1.0,1.0,1.0,1.0
+Vagina,Uterus,1.0,0.987654320988,0.992341356674,1.0,1.0,1.0,1.0
+Whole Blood,Adipose - Subcutaneous,1.0,0.987654320988,0.993769470405,1.0,1.0,1.0,1.0
+Whole Blood,Adipose - Visceral (Omentum),0.997053291536,0.973504670294,0.985494626232,1.0,0.989302059497,1.0,1.0
+Whole Blood,Adrenal Gland,1.0,0.979913916786,0.991341991342,1.0,1.0,1.0,1.0
+Whole Blood,Artery - Aorta,1.0,0.97138763815,0.987912649723,1.0,1.0,1.0,1.0
+Whole Blood,Artery - Coronary,1.0,0.973508771929,0.982656641604,1.0,1.0,1.0,1.0
+Whole Blood,Artery - Tibial,1.0,0.994520547945,1.0,1.0,1.0,1.0,1.0
+Whole Blood,Brain - Amygdala,1.0,0.997556446821,1.0,1.0,1.0,1.0,1.0
+Whole Blood,Brain - Anterior cingulate cortex (BA24),1.0,0.998175249078,1.0,1.0,1.0,1.0,1.0
+Whole Blood,Brain - Caudate (basal ganglia),1.0,0.997375328084,1.0,1.0,1.0,1.0,1.0
+Whole Blood,Brain - Cerebellar Hemisphere,1.0,0.998282770464,1.0,1.0,1.0,1.0,1.0
+Whole Blood,Brain - Cerebellum,1.0,0.997364953887,1.0,1.0,1.0,1.0,1.0
+Whole Blood,Brain - Cortex,1.0,0.998130841121,1.0,1.0,1.0,1.0,1.0
+Whole Blood,Brain - Frontal Cortex (BA9),1.0,0.99771232485,1.0,1.0,1.0,1.0,1.0
+Whole Blood,Brain - Hippocampus,1.0,0.996184105749,1.0,1.0,1.0,1.0,1.0
+Whole Blood,Brain - Hypothalamus,1.0,0.998354191451,1.0,1.0,1.0,1.0,1.0
+Whole Blood,Brain - Nucleus accumbens (basal ganglia),1.0,0.998340795919,1.0,1.0,1.0,1.0,1.0
+Whole Blood,Brain - Putamen (basal ganglia),1.0,0.997390091193,1.0,1.0,1.0,1.0,1.0
+Whole Blood,Brain - Spinal cord (cervical c-1),1.0,0.997707390945,1.0,1.0,1.0,1.0,1.0
+Whole Blood,Brain - Substantia nigra,1.0,0.997010463378,1.0,1.0,1.0,1.0,1.0
+Whole Blood,Breast - Mammary Tissue,1.0,0.965517241379,0.985974754558,1.0,1.0,1.0,1.0
+Whole Blood,Cells - EBV-transformed lymphocytes,1.0,0.976045121237,0.990867389491,1.0,1.0,1.0,1.0
+Whole Blood,Cells - Transformed fibroblasts,1.0,0.998517861987,1.0,1.0,1.0,1.0,1.0
+Whole Blood,Colon - Sigmoid,1.0,0.989100817439,0.993788819876,1.0,1.0,1.0,1.0
+Whole Blood,Colon - Transverse,0.998367838076,0.949215457473,0.970952812159,1.0,1.0,1.0,1.0
+Whole Blood,Esophagus - Gastroesophageal Junction,1.0,0.992433795712,0.997455470738,1.0,1.0,1.0,1.0
+Whole Blood,Esophagus - Mucosa,1.0,0.94985418827,0.975406727809,1.0,1.0,1.0,1.0
+Whole Blood,Esophagus - Muscularis,1.0,0.992590966467,1.0,1.0,1.0,1.0,1.0
+Whole Blood,Heart - Atrial Appendage,1.0,0.989821817052,0.996318109884,1.0,1.0,1.0,1.0
+Whole Blood,Heart - Left Ventricle,1.0,0.992481203008,1.0,1.0,1.0,1.0,1.0
+Whole Blood,Kidney - Cortex,1.0,0.972672986384,0.980793205548,1.0,1.0,1.0,1.0
+Whole Blood,Liver,0.992900671457,0.928115045108,0.948985645426,1.0,1.0,1.0,1.0
+Whole Blood,Lung,0.992495309568,0.908764736033,0.943139678616,1.0,0.983050847458,1.0,1.0
+Whole Blood,Minor Salivary Gland,0.99676226646,0.962212899904,0.97061366766,1.0,1.0,1.0,1.0
+Whole Blood,Muscle - Skeletal,1.0,0.99538979539,1.0,1.0,1.0,1.0,1.0
+Whole Blood,Nerve - Tibial,1.0,0.98882028721,0.99501197251,1.0,1.0,1.0,1.0
+Whole Blood,Ovary,1.0,0.977485928705,0.989189189189,1.0,1.0,1.0,1.0
+Whole Blood,Pancreas,1.0,0.984832069339,0.991095280499,1.0,1.0,1.0,1.0
+Whole Blood,Pituitary,1.0,0.988700564972,0.994687915007,1.0,1.0,1.0,1.0
+Whole Blood,Prostate,1.0,0.968875252039,0.987991782906,1.0,1.0,1.0,1.0
+Whole Blood,Skin - Not Sun Exposed (Suprapubic),1.0,0.991664351209,1.0,1.0,1.0,1.0,1.0
+Whole Blood,Skin - Sun Exposed (Lower leg),1.0,0.994650445707,1.0,1.0,1.0,1.0,1.0
+Whole Blood,Small Intestine - Terminal Ileum,0.997405966278,0.943400603108,0.962014134276,1.0,1.0,1.0,1.0
+Whole Blood,Spleen,0.994106655167,0.939844239549,0.955279503106,0.989637305699,0.975247524752,1.0,1.0
+Whole Blood,Stomach,1.0,0.94111697739,0.962116381028,1.0,1.0,1.0,1.0
+Whole Blood,Testis,1.0,0.995670995671,1.0,1.0,1.0,1.0,1.0
+Whole Blood,Thyroid,1.0,0.975510204082,0.988444872412,1.0,1.0,1.0,1.0
+Whole Blood,Uterus,1.0,0.985071301247,0.991183206107,1.0,1.0,1.0,1.0
+Whole Blood,Vagina,1.0,0.973134328358,0.990566037736,1.0,1.0,1.0,1.0

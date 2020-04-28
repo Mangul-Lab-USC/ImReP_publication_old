@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd" version="1.3">
+  <meta lastmodifieddate="2020-04-24">
+    <creator>NodosChile</creator>
+    <description>A GEXF file written in R with "rgexf"</description>
+    <keywords>GEXF, NodosChile, R, rgexf, Gephi</keywords>
+  </meta>
+  <graph mode="static" defaultedgetype="undirected">
+    <attributes class="node" mode="static">
+      <attribute id="att1" title="NCDR" type="integer"/>
+    </attributes>
+    <attributes class="edge" mode="static">
+      <attribute id="att1" title="WGH" type="float"/>
+    </attributes>
+    <nodes>
+      <node id="1" label="Esophagus - Mucosa">
+        <attvalues>
+          <attvalue for="att1" value="303"/>
+        </attvalues>
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-39.7719867521326" y="65.3361919188368" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="2" label="Liver">
+        <attvalues>
+          <attvalue for="att1" value="143"/>
+        </attvalues>
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="30.9248168846384" y="-8.80281368953688" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="3" label="Lung">
+        <attvalues>
+          <attvalue for="att1" value="621"/>
+        </attvalues>
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="55.2172015589381" y="69.9759405155557" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="4" label="Minor Salivary Gland">
+        <attvalues>
+          <attvalue for="att1" value="3557"/>
+        </attvalues>
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-48.473997677631" y="-1.43111273923823" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="5" label="Pancreas">
+        <attvalues>
+          <attvalue for="att1" value="42"/>
+        </attvalues>
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="90.1734985183166" y="61.0628448938389" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="6" label="Prostate">
+        <attvalues>
+          <attvalue for="att1" value="76"/>
+        </attvalues>
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="29.4351586018168" y="49.8434305180938" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="7" label="Small Intestine - Terminal Ileum">
+        <attvalues>
+          <attvalue for="att1" value="2017"/>
+        </attvalues>
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-84.8802067603976" y="-95.9371270767733" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="8" label="Spleen">
+        <attvalues>
+          <attvalue for="att1" value="5390"/>
+        </attvalues>
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-52.3301616032966" y="60.6951309546039" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="9" label="Stomach">
+        <attvalues>
+          <attvalue for="att1" value="843"/>
+        </attvalues>
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-69.6137395949385" y="-100" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="10" label="Thyroid">
+        <attvalues>
+          <attvalue for="att1" value="301"/>
+        </attvalues>
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-42.6155321866245" y="-57.5751849687005" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="11" label="Uterus">
+        <attvalues>
+          <attvalue for="att1" value="57"/>
+        </attvalues>
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-100" y="35.5009184486699" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="12" label="Vagina">
+        <attvalues>
+          <attvalue for="att1" value="168"/>
+        </attvalues>
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="100" y="88.9731563627379" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="13" label="Whole Blood">
+        <attvalues>
+          <attvalue for="att1" value="515"/>
+        </attvalues>
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-3.68844823922815" y="16.0732532757234" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="14" label="Colon - Transverse">
+        <attvalues>
+          <attvalue for="att1" value="2872"/>
+        </attvalues>
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="43.8614941585629" y="-27.0294730516424" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="15" label="Artery - Coronary">
+        <attvalues>
+          <attvalue for="att1" value="112"/>
+        </attvalues>
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-54.5003199061402" y="-7.81443564651433" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="16" label="Adipose - Visceral (Omentum)">
+        <attvalues>
+          <attvalue for="att1" value="106"/>
+        </attvalues>
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="13.5161410580265" y="21.9030978868575" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="17" label="Artery - Aorta">
+        <attvalues>
+          <attvalue for="att1" value="82"/>
+        </attvalues>
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="36.1256520058882" y="91.9670503218999" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="18" label="Breast - Mammary Tissue">
+        <attvalues>
+          <attvalue for="att1" value="436"/>
+        </attvalues>
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-55.340720894251" y="34.0256075699964" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="19" label="Colon - Sigmoid">
+        <attvalues>
+          <attvalue for="att1" value="691"/>
+        </attvalues>
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="48.145215645258" y="5.08925553907724" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="20" label="Adrenal Gland">
+        <attvalues>
+          <attvalue for="att1" value="32"/>
+        </attvalues>
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-30.8146311199769" y="45.5894917253584" z="0"/>
+        <viz:size value="10"/>
+      </node>
+      <node id="21" label="Ovary">
+        <attvalues>
+          <attvalue for="att1" value="49"/>
+        </attvalues>
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="19.6477857376959" y="100" z="0"/>
+        <viz:size value="10"/>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="1" target="3" weight="1">
+        <attvalues>
+          <attvalue for="att1" value="0.005597502"/>
+        </attvalues>
+      </edge>
+      <edge id="1" source="1" target="4" weight="1">
+        <attvalues>
+          <attvalue for="att1" value="0.01910842"/>
+        </attvalues>
+      </edge>
+      <edge id="2" source="1" target="7" weight="1">
+        <attvalues>
+          <attvalue for="att1" value="0.005058169"/>
+        </attvalues>
+      </edge>
+      <edge id="3" source="1" target="8" weight="1">
+        <attvalues>
+          <attvalue for="att1" value="0.007477458"/>
+        </attvalues>
+      </edge>
+      <edge id="4" source="1" target="9" weight="1">
+        <attvalues>
+          <attvalue for="att1" value="0.007201646"/>
+        </attvalues>
+      </edge>
+      <edge id="5" source="1" target="14" weight="1">
+        <attvalues>
+          <attvalue for="att1" value="0.004718698"/>
+        </attvalues>
+      </edge>
+      <edge id="6" source="2" target="3" weight="1">
+        <attvalues>
+          <attvalue for="att1" value="0.005992908"/>
+        </attvalues>
+      </edge>
+      <edge id="7" source="2" target="8" weight="1">
+        <attvalues>
+          <attvalue for="att1" value="0.01561002"/>
+        </attvalues>
+      </edge>
+      <edge id="8" source="2" target="9" weight="1">
+        <attvalues>
+          <attvalue for="att1" value="0.004232804"/>
+        </attvalues>
+      </edge>
+      <edge id="9" source="2" target="13" weight="1">
+        <attvalues>
+          <attvalue for="att1" value="0.007099329"/>
+        </attvalues>
+      </edge>
+      <edge id="10" source="2" target="14" weight="1">
+        <attvalues>
+          <attvalue for="att1" value="0.002532447"/>
+        </attvalues>
+      </edge>
+      <edge id="11" source="2" target="15" weight="1">
+        <attvalues>
+          <attvalue for="att1" value="0.007905138"/>
+        </attvalues>
+      </edge>
+      <edge id="12" source="3" target="4" weight="1">
+        <attvalues>
+          <attvalue for="att1" value="0.01062925"/>
+        </attvalues>
+      </edge>
+      <edge id="13" source="3" target="6" weight="1">
+        <attvalues>
+          <attvalue for="att1" value="0.001910849"/>
+        </attvalues>
+      </edge>
+      <edge id="14" source="3" target="7" weight="1">
+        <attvalues>
+          <attvalue for="att1" value="0.003036937"/>
+        </attvalues>
+      </edge>
+      <edge id="15" source="3" target="8" weight="1">
+        <attvalues>
+          <attvalue for="att1" value="0.021711"/>
+        </attvalues>
+      </edge>
+      <edge id="16" source="3" target="9" weight="1">
+        <attvalues>
+          <attvalue for="att1" value="0.01494015"/>
+        </attvalues>
+      </edge>
+      <edge id="17" source="3" target="10" weight="1">
+        <attvalues>
+          <attvalue for="att1" value="0.001988072"/>
+        </attvalues>
+      </edge>
+      <edge id="18" source="3" target="12" weight="1">
+        <attvalues>
+          <attvalue for="att1" value="0.002048265"/>
+        </attvalues>
+      </edge>
+      <edge id="19" source="3" target="13" weight="1">
+        <attvalues>
+          <attvalue for="att1" value="0.00750469"/>
+        </attvalues>
+      </edge>
+      <edge id="20" source="3" target="14" weight="1">
+        <attvalues>
+          <attvalue for="att1" value="0.003192621"/>
+        </attvalues>
+      </edge>
+      <edge id="21" source="3" target="15" weight="1">
+        <attvalues>
+          <attvalue for="att1" value="0.003512834"/>
+        </attvalues>
+      </edge>
+      <edge id="22" source="3" target="16" weight="1">
+        <attvalues>
+          <attvalue for="att1" value="0.006472492"/>
+        </attvalues>
+      </edge>
+      <edge id="23" source="3" target="17" weight="1">
+        <attvalues>
+          <attvalue for="att1" value="0.006802721"/>
+        </attvalues>
+      </edge>
+      <edge id="24" source="3" target="18" weight="1">
+        <attvalues>
+          <attvalue for="att1" value="0.002102689"/>
+        </attvalues>
+      </edge>
+      <edge id="25" source="3" target="19" weight="1">
+        <attvalues>
+          <attvalue for="att1" value="0.001043741"/>
+        </attvalues>
+      </edge>
+      <edge id="26" source="4" target="5" weight="1">
+        <attvalues>
+          <attvalue for="att1" value="0.001013428"/>
+        </attvalues>
+      </edge>
+      <edge id="27" source="4" target="13" weight="1">
+        <attvalues>
+          <attvalue for="att1" value="0.003237734"/>
+        </attvalues>
+      </edge>
+      <edge id="28" source="4" target="14" weight="1">
+        <attvalues>
+          <attvalue for="att1" value="0.004715267"/>
+        </attvalues>
+      </edge>
+      <edge id="29" source="4" target="16" weight="1">
+        <attvalues>
+          <attvalue for="att1" value="0.001353638"/>
+        </attvalues>
+      </edge>
+      <edge id="30" source="4" target="17" weight="1">
+        <attvalues>
+          <attvalue for="att1" value="0.002198021"/>
+        </attvalues>
+      </edge>
+      <edge id="31" source="4" target="18" weight="1">
+        <attvalues>
+          <attvalue for="att1" value="0.001489758"/>
+        </attvalues>
+      </edge>
+      <edge id="32" source="6" target="8" weight="1">
+        <attvalues>
+          <attvalue for="att1" value="0.001287416"/>
+        </attvalues>
+      </edge>
+      <edge id="33" source="7" target="8" weight="1">
+        <attvalues>
+          <attvalue for="att1" value="0.01340587"/>
+        </attvalues>
+      </edge>
+      <edge id="34" source="7" target="9" weight="1">
+        <attvalues>
+          <attvalue for="att1" value="0.006063669"/>
+        </attvalues>
+      </edge>
+      <edge id="35" source="7" target="13" weight="1">
+        <attvalues>
+          <attvalue for="att1" value="0.002594034"/>
+        </attvalues>
+      </edge>
+      <edge id="36" source="7" target="14" weight="1">
+        <attvalues>
+          <attvalue for="att1" value="0.01585504"/>
+        </attvalues>
+      </edge>
+      <edge id="37" source="7" target="15" weight="1">
+        <attvalues>
+          <attvalue for="att1" value="0.001334223"/>
+        </attvalues>
+      </edge>
+      <edge id="38" source="8" target="9" weight="1">
+        <attvalues>
+          <attvalue for="att1" value="0.008095511"/>
+        </attvalues>
+      </edge>
+      <edge id="39" source="8" target="10" weight="1">
+        <attvalues>
+          <attvalue for="att1" value="0.002797007"/>
+        </attvalues>
+      </edge>
+      <edge id="40" source="8" target="11" weight="1">
+        <attvalues>
+          <attvalue for="att1" value="0.00109569"/>
+        </attvalues>
+      </edge>
+      <edge id="41" source="8" target="12" weight="1">
+        <attvalues>
+          <attvalue for="att1" value="0.001581971"/>
+        </attvalues>
+      </edge>
+      <edge id="42" source="8" target="13" weight="1">
+        <attvalues>
+          <attvalue for="att1" value="0.005893345"/>
+        </attvalues>
+      </edge>
+      <edge id="43" source="8" target="14" weight="1">
+        <attvalues>
+          <attvalue for="att1" value="0.007064555"/>
+        </attvalues>
+      </edge>
+      <edge id="44" source="8" target="15" weight="1">
+        <attvalues>
+          <attvalue for="att1" value="0.004472272"/>
+        </attvalues>
+      </edge>
+      <edge id="45" source="8" target="16" weight="1">
+        <attvalues>
+          <attvalue for="att1" value="0.002768166"/>
+        </attvalues>
+      </edge>
+      <edge id="46" source="8" target="17" weight="1">
+        <attvalues>
+          <attvalue for="att1" value="0.002154098"/>
+        </attvalues>
+      </edge>
+      <edge id="47" source="8" target="18" weight="1">
+        <attvalues>
+          <attvalue for="att1" value="0.002122533"/>
+        </attvalues>
+      </edge>
+      <edge id="48" source="8" target="20" weight="1">
+        <attvalues>
+          <attvalue for="att1" value="0.002225519"/>
+        </attvalues>
+      </edge>
+      <edge id="49" source="8" target="21" weight="1">
+        <attvalues>
+          <attvalue for="att1" value="0.001458257"/>
+        </attvalues>
+      </edge>
+      <edge id="50" source="9" target="14" weight="1">
+        <attvalues>
+          <attvalue for="att1" value="0.006982692"/>
+        </attvalues>
+      </edge>
+      <edge id="51" source="9" target="17" weight="1">
+        <attvalues>
+          <attvalue for="att1" value="0.001867414"/>
+        </attvalues>
+      </edge>
+      <edge id="52" source="9" target="18" weight="1">
+        <attvalues>
+          <attvalue for="att1" value="0.001543809"/>
+        </attvalues>
+      </edge>
+      <edge id="53" source="9" target="19" weight="1">
+        <attvalues>
+          <attvalue for="att1" value="0.001402525"/>
+        </attvalues>
+      </edge>
+      <edge id="54" source="13" target="14" weight="1">
+        <attvalues>
+          <attvalue for="att1" value="0.001632162"/>
+        </attvalues>
+      </edge>
+      <edge id="55" source="13" target="16" weight="1">
+        <attvalues>
+          <attvalue for="att1" value="0.002946708"/>
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
+
