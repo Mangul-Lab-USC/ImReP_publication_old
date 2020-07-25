@@ -1,3 +1,5 @@
+This Repository is now deprecated. Please visit the new repository that includes additional information: https://github.com/Mangul-Lab-USC/ImReP_publication
+
 # ImRep Companion
 
 Here we provide scripts and commands we used in our study "Profiling immunoglobulin repertoires across multiple human tissues by RNA Sequencing"  to run existing Ig and TCR repertoire assembly tools on both simulated and real data. Preprint  of the study is available at http://biorxiv.org/content/early/2016/11/22/089235 
